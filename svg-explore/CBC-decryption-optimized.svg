@@ -1,0 +1,628 @@
+<svg viewBox="0 0 1043.11 422.14" xmlns="http://www.w3.org/2000/svg">
+  <style>
+.group > text {
+  font-size: 5.27px;
+  font-weight: 400;
+  letter-spacing: 0;
+  font-weight: 400;
+  line-height:1.25;
+  font-family:sans-serif;
+  word-spacing:0;
+  stroke-width:0.99
+}
+</style>
+  <defs>
+    <marker id="a" orient="auto" overflow="visible">
+      <path d="M-4 0l-2 2 7-2-7-2z" fill-rule="evenodd" stroke="#000" stroke-width=".53"/>
+    </marker>
+    <marker id="e" orient="auto" overflow="visible">
+      <path d="M-4 0l-2 2 7-2-7-2z" fill-rule="evenodd" stroke="#000" stroke-width=".53"/>
+    </marker>
+    <marker id="g" orient="auto" overflow="visible">
+      <path d="M-4 0l-2 2 7-2-7-2z" fill-rule="evenodd" stroke="#000" stroke-width=".53"/>
+    </marker>
+    <marker id="b" orient="auto" overflow="visible">
+      <path d="M-4 0l-2 2 7-2-7-2z" fill-rule="evenodd" stroke="#000" stroke-width=".53"/>
+    </marker>
+    <marker id="h" orient="auto" overflow="visible">
+      <path d="M-4 0l-2 2 7-2-7-2z" fill-rule="evenodd" stroke="#000" stroke-width=".53"/>
+    </marker>
+    <marker id="c" orient="auto" overflow="visible">
+      <path d="M-4 0l-2 2 7-2-7-2z" fill-rule="evenodd" stroke="#000" stroke-width=".53"/>
+    </marker>
+    <marker id="f" orient="auto" overflow="visible">
+      <path d="M-4 0l-2 2 7-2-7-2z" fill-rule="evenodd" stroke="#000" stroke-width=".53"/>
+    </marker>
+    <marker id="i" orient="auto" overflow="visible">
+      <path d="M-4 0l-2 2 7-2-7-2z" fill-rule="evenodd" stroke="#000" stroke-width=".53"/>
+    </marker>
+    <marker id="d" orient="auto" overflow="visible">
+      <path d="M-4 0l-2 2 7-2-7-2z" fill-rule="evenodd" stroke="#000" stroke-width=".53"/>
+    </marker>
+  </defs>
+  <text font-family="DejaVu Sans" font-size="17.68" letter-spacing="0" stroke-width="1.47" style="line-height:0%" transform="matrix(.96544 0 0 1.0358 185.001 169.136)" word-spacing="0" x="529.87" y="-43.16">
+    Key
+  </text>
+  <text font-family="DejaVu Sans" font-size="17.68" letter-spacing="0" stroke-width="1.47" style="line-height:0%;text-align:center" text-anchor="middle" transform="matrix(.96544 0 0 1.0358 185.001 169.136)" word-spacing="0" x="705.86" y="-149.85">
+    Ciphertext
+  </text>
+  <path d="M867.195 49.22v41.836" fill="none" marker-end="url(#a)" stroke="#000" stroke-width="1.71"/>
+  <path d="M681.858 122v25" fill="none" marker-end="url(#a)" stroke="#000" stroke-width="1.83" transform="translate(185.001 169.136)"/>
+  <text font-family="DejaVu Sans" font-size="17.68" letter-spacing="0" stroke-width="1.47" style="line-height:0%" transform="scale(.96544 1.0358)" word-spacing="0" x="849.69" y="355.36">
+    Plaintext
+  </text>
+  <g stroke-width="1.47">
+    <text font-family="DejaVu Sans" font-size="17.68" letter-spacing="0" style="line-height:0%;text-align:center" text-anchor="middle" transform="matrix(.96544 0 0 1.0358 185.001 169.136)" word-spacing="0" x="705.33" y="-46.06"><tspan style="line-height:1.25" x="705.33" y="-46.06">block cipher</tspan> <tspan style="line-height:1.25" x="705.33" y="-23.95">decryption</tspan></text>
+    <path d="M797.011 100.446h139.44v54.95h-139.44z" fill="none" stroke="#000" stroke-linecap="square"/>
+  </g>
+  <text font-family="DejaVu Sans" font-size="17.68" letter-spacing="0" stroke-width="1.47" style="line-height:0%" transform="scale(.96544 1.0358)" word-spacing="0" x="849.69" y="187.78">
+    Decrypted
+  </text>
+  <path d="M681.403-11v21" fill="none" marker-end="url(#b)" stroke="#000" stroke-width="1.78" transform="translate(185.001 169.136)"/>
+  <path d="M550-49.459h50" fill="none" marker-end="url(#c)" stroke="#000" stroke-width="1.73" transform="translate(185.001 169.136)"/>
+  <g class="group" id="ciphertext-right">
+    <path d="M13.5-16.5h8.99v8.99H13.5z" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.01" transform="matrix(2.2023 0 0 2.49741 662.436 61.601)"/>
+    <text id="ciphertext-right-0" transform="matrix(2.1964 0 0 2.50412 662.436 61.601)" x="14.69" y="-10.05">
+      00
+    </text>
+    <path d="M13.5-16.5h8.99v8.99H13.5z" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.01" transform="matrix(2.2023 0 0 2.49741 684.447 61.615)"/>
+    <text id="ciphertext-right-1" transform="matrix(2.1964 0 0 2.50412 684.447 61.615)" x="14.69" y="-10.05">
+      00
+    </text>
+    <path d="M13.5-16.5h8.99v8.99H13.5z" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.01" transform="matrix(2.2023 0 0 2.49741 706.447 61.615)"/>
+    <text id="ciphertext-right-2" transform="matrix(2.1964 0 0 2.50412 706.447 61.615)" x="14.69" y="-10.05">
+      00
+    </text>
+    <path d="M13.5-16.5h8.99v8.99H13.5z" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.01" transform="matrix(2.2023 0 0 2.49741 728.447 61.615)"/>
+    <text id="ciphertext-right-3" transform="matrix(2.1964 0 0 2.50412 728.447 61.615)" x="14.69" y="-10.05">
+      00
+    </text>
+    <path d="M13.5-16.5h8.99v8.99H13.5z" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.01" transform="matrix(2.2023 0 0 2.49741 750.447 61.601)"/>
+    <text id="ciphertext-right-4" transform="matrix(2.1964 0 0 2.50412 750.447 61.601)" x="14.69" y="-10.05">
+      00
+    </text>
+    <path d="M13.5-16.5h8.99v8.99H13.5z" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.01" transform="matrix(2.2023 0 0 2.49741 772.459 61.615)"/>
+    <text id="ciphertext-right-5" transform="matrix(2.1964 0 0 2.50412 772.459 61.615)" x="14.69" y="-10.05">
+      00
+    </text>
+    <path d="M13.5-16.5h8.99v8.99H13.5z" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.01" transform="matrix(2.2023 0 0 2.49741 794.459 61.615)"/>
+    <text id="ciphertext-right-6" transform="matrix(2.1964 0 0 2.50412 794.459 61.615)" x="14.69" y="-10.05">
+      00
+    </text>
+    <path d="M13.5-16.5h8.99v8.99H13.5z" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.01" transform="matrix(2.2023 0 0 2.49741 816.459 61.615)"/>
+    <text id="ciphertext-right-7" transform="matrix(2.1964 0 0 2.50412 816.459 61.615)" x="14.69" y="-10.05">
+      00
+    </text>
+    <path d="M13.5-16.5h8.99v8.99H13.5z" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.01" transform="matrix(2.2023 0 0 2.49741 838.436 61.601)"/>
+    <text id="ciphertext-right-8" transform="matrix(2.1964 0 0 2.50412 838.436 61.601)" x="14.69" y="-10.05">
+      00
+    </text>
+    <path d="M13.5-16.5h8.99v8.99H13.5z" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.01" transform="matrix(2.2023 0 0 2.49741 860.447 61.615)"/>
+    <text id="ciphertext-right-9" transform="matrix(2.1964 0 0 2.50412 860.447 61.615)" x="14.69" y="-10.05">
+      00
+    </text>
+    <path d="M13.5-16.5h8.99v8.99H13.5z" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.01" transform="matrix(2.2023 0 0 2.49741 882.447 61.615)"/>
+    <text id="ciphertext-right-10" transform="matrix(2.1964 0 0 2.50412 882.447 61.615)" x="14.69" y="-10.05">
+      00
+    </text>
+    <path d="M13.5-16.5h8.99v8.99H13.5z" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.01" transform="matrix(2.2023 0 0 2.49741 904.447 61.615)"/>
+    <text id="ciphertext-right-11" transform="matrix(2.1964 0 0 2.50412 904.447 61.615)" x="14.69" y="-10.05">
+      00
+    </text>
+    <path d="M13.5-16.5h8.99v8.99H13.5z" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.01" transform="matrix(2.2023 0 0 2.49741 926.447 61.601)"/>
+    <text id="ciphertext-right-12" transform="matrix(2.1964 0 0 2.50412 926.447 61.601)" x="14.69" y="-10.05">
+      00
+    </text>
+    <path d="M13.5-16.5h8.99v8.99H13.5z" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.01" transform="matrix(2.2023 0 0 2.49741 948.459 61.615)"/>
+    <text id="ciphertext-right-13" transform="matrix(2.1964 0 0 2.50412 948.459 61.615)" x="14.69" y="-10.05">
+      00
+    </text>
+    <path d="M13.5-16.5h8.99v8.99H13.5z" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.01" transform="matrix(2.2023 0 0 2.49741 970.459 61.615)"/>
+    <text id="ciphertext-right-14" transform="matrix(2.1964 0 0 2.50412 970.459 61.615)" x="14.69" y="-10.05">
+      00
+    </text>
+    <path d="M13.5-16.5h8.99v8.99H13.5z" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.01" transform="matrix(2.2023 0 0 2.49741 992.459 61.615)"/>
+    <text id="ciphertext-right-15" transform="matrix(2.1964 0 0 2.50412 992.459 61.615)" x="14.69" y="-10.05">
+      00
+    </text>
+  </g>
+  <g class="group" id="decrypted-right">
+    <path d="M13.5-16.5h8.99v8.99H13.5z" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.01" transform="matrix(2.2023 0 0 2.49741 662.373 244.601)"/>
+    <text id="decrypted-right-0" transform="matrix(2.1964 0 0 2.50412 662.373 244.601)" x="14.69" y="-10.05">
+      00
+    </text>
+    <path d="M13.5-16.5h8.99v8.99H13.5z" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.01" transform="matrix(2.2023 0 0 2.49741 684.385 244.615)"/>
+    <text id="decrypted-right-1" transform="matrix(2.1964 0 0 2.50412 684.385 244.615)" x="14.69" y="-10.05">
+      00
+    </text>
+    <path d="M13.5-16.5h8.99v8.99H13.5z" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.01" transform="matrix(2.2023 0 0 2.49741 706.385 244.615)"/>
+    <text id="decrypted-right-2" transform="matrix(2.1964 0 0 2.50412 706.385 244.615)" x="14.69" y="-10.05">
+      00
+    </text>
+    <path d="M13.5-16.5h8.99v8.99H13.5z" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.01" transform="matrix(2.2023 0 0 2.49741 728.385 244.615)"/>
+    <text id="decrypted-right-3" transform="matrix(2.1964 0 0 2.50412 728.385 244.615)" x="14.69" y="-10.05">
+      00
+    </text>
+    <path d="M13.5-16.5h8.99v8.99H13.5z" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.01" transform="matrix(2.2023 0 0 2.49741 750.385 244.601)"/>
+    <text id="decrypted-right-4" transform="matrix(2.1964 0 0 2.50412 750.385 244.601)" x="14.69" y="-10.05">
+      00
+    </text>
+    <path d="M13.5-16.5h8.99v8.99H13.5z" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.01" transform="matrix(2.2023 0 0 2.49741 772.396 244.615)"/>
+    <text id="decrypted-right-5" transform="matrix(2.1964 0 0 2.50412 772.396 244.615)" x="14.69" y="-10.05">
+      00
+    </text>
+    <path d="M13.5-16.5h8.99v8.99H13.5z" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.01" transform="matrix(2.2023 0 0 2.49741 794.396 244.615)"/>
+    <text id="decrypted-right-6" transform="matrix(2.1964 0 0 2.50412 794.396 244.615)" x="14.69" y="-10.05">
+      00
+    </text>
+    <path d="M13.5-16.5h8.99v8.99H13.5z" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.01" transform="matrix(2.2023 0 0 2.49741 816.396 244.615)"/>
+    <text id="decrypted-right-7" transform="matrix(2.1964 0 0 2.50412 816.396 244.615)" x="14.69" y="-10.05">
+      00
+    </text>
+    <path d="M13.5-16.5h8.99v8.99H13.5z" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.01" transform="matrix(2.2023 0 0 2.49741 838.373 244.601)"/>
+    <text id="decrypted-right-8" transform="matrix(2.1964 0 0 2.50412 838.373 244.601)" x="14.69" y="-10.05">
+      00
+    </text>
+    <path d="M13.5-16.5h8.99v8.99H13.5z" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.01" transform="matrix(2.2023 0 0 2.49741 860.385 244.615)"/>
+    <text id="decrypted-right-9" transform="matrix(2.1964 0 0 2.50412 860.385 244.615)" x="14.69" y="-10.05">
+      00
+    </text>
+    <path d="M13.5-16.5h8.99v8.99H13.5z" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.01" transform="matrix(2.2023 0 0 2.49741 882.385 244.615)"/>
+    <text id="decrypted-right-10" transform="matrix(2.1964 0 0 2.50412 882.385 244.615)" x="14.69" y="-10.05">
+      00
+    </text>
+    <path d="M13.5-16.5h8.99v8.99H13.5z" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.01" transform="matrix(2.2023 0 0 2.49741 904.385 244.615)"/>
+    <text id="decrypted-right-11" transform="matrix(2.1964 0 0 2.50412 904.385 244.615)" x="14.69" y="-10.05">
+      00
+    </text>
+    <path d="M13.5-16.5h8.99v8.99H13.5z" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.01" transform="matrix(2.2023 0 0 2.49741 926.385 244.601)"/>
+    <text id="decrypted-right-12" transform="matrix(2.1964 0 0 2.50412 926.385 244.601)" x="14.69" y="-10.05">
+      00
+    </text>
+    <path d="M13.5-16.5h8.99v8.99H13.5z" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.01" transform="matrix(2.2023 0 0 2.49741 948.396 244.615)"/>
+    <text id="decrypted-right-13" transform="matrix(2.1964 0 0 2.50412 948.396 244.615)" x="14.69" y="-10.05">
+      00
+    </text>
+    <path d="M13.5-16.5h8.99v8.99H13.5z" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.01" transform="matrix(2.2023 0 0 2.49741 970.396 244.615)"/>
+    <text id="decrypted-right-14" transform="matrix(2.1964 0 0 2.50412 970.396 244.615)" x="14.69" y="-10.05">
+      00
+    </text>
+    <path d="M13.5-16.5h8.99v8.99H13.5z" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.01" transform="matrix(2.2023 0 0 2.49741 992.396 244.615)"/>
+    <text id="decrypted-right-15" transform="matrix(2.1964 0 0 2.50412 992.396 244.615)" x="14.69" y="-10.05">
+      00
+    </text>
+  </g>
+  <path d="M681.875 62v33" fill="none" marker-end="url(#d)" stroke="#000" stroke-width="1.74" transform="translate(185.001 169.136)"/>
+  <g class="group" id="plaintext-right">
+    <path d="M13.5-16.5h8.99v8.99H13.5z" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.01" transform="matrix(2.2023 0 0 2.49741 655.244 364.601)"/>
+    <text id="plaintext-right-0" transform="matrix(2.1964 0 0 2.50412 655.244 364.601)" x="14.69" y="-10.05">
+      00
+    </text>
+    <path d="M13.5-16.5h8.99v8.99H13.5z" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.01" transform="matrix(2.2023 0 0 2.49741 677.256 364.615)"/>
+    <text id="plaintext-right-1" transform="matrix(2.1964 0 0 2.50412 677.256 364.615)" x="14.69" y="-10.05">
+      00
+    </text>
+    <path d="M13.5-16.5h8.99v8.99H13.5z" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.01" transform="matrix(2.2023 0 0 2.49741 699.256 364.615)"/>
+    <text id="plaintext-right-2" transform="matrix(2.1964 0 0 2.50412 699.256 364.615)" x="14.69" y="-10.05">
+      00
+    </text>
+    <path d="M13.5-16.5h8.99v8.99H13.5z" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.01" transform="matrix(2.2023 0 0 2.49741 721.256 364.615)"/>
+    <text id="plaintext-right-3" transform="matrix(2.1964 0 0 2.50412 721.256 364.615)" x="14.69" y="-10.05">
+      00
+    </text>
+    <path d="M13.5-16.5h8.99v8.99H13.5z" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.01" transform="matrix(2.2023 0 0 2.49741 743.256 364.601)"/>
+    <text id="plaintext-right-4" transform="matrix(2.1964 0 0 2.50412 743.256 364.601)" x="14.69" y="-10.05">
+      00
+    </text>
+    <path d="M13.5-16.5h8.99v8.99H13.5z" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.01" transform="matrix(2.2023 0 0 2.49741 765.267 364.615)"/>
+    <text id="plaintext-right-5" transform="matrix(2.1964 0 0 2.50412 765.267 364.615)" x="14.69" y="-10.05">
+      00
+    </text>
+    <path d="M13.5-16.5h8.99v8.99H13.5z" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.01" transform="matrix(2.2023 0 0 2.49741 787.267 364.615)"/>
+    <text id="plaintext-right-6" transform="matrix(2.1964 0 0 2.50412 787.267 364.615)" x="14.69" y="-10.05">
+      00
+    </text>
+    <path d="M13.5-16.5h8.99v8.99H13.5z" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.01" transform="matrix(2.2023 0 0 2.49741 809.267 364.615)"/>
+    <text id="plaintext-right-7" transform="matrix(2.1964 0 0 2.50412 809.267 364.615)" x="14.69" y="-10.05">
+      00
+    </text>
+    <path d="M13.5-16.5h8.99v8.99H13.5z" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.01" transform="matrix(2.2023 0 0 2.49741 831.244 364.601)"/>
+    <text id="plaintext-right-8" transform="matrix(2.1964 0 0 2.50412 831.244 364.601)" x="14.69" y="-10.05">
+      00
+    </text>
+    <path d="M13.5-16.5h8.99v8.99H13.5z" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.01" transform="matrix(2.2023 0 0 2.49741 853.256 364.615)"/>
+    <text id="plaintext-right-9" transform="matrix(2.1964 0 0 2.50412 853.256 364.615)" x="14.69" y="-10.05">
+      00
+    </text>
+    <path d="M13.5-16.5h8.99v8.99H13.5z" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.01" transform="matrix(2.2023 0 0 2.49741 875.256 364.615)"/>
+    <text id="plaintext-right-10" transform="matrix(2.1964 0 0 2.50412 875.256 364.615)" x="14.69" y="-10.05">
+      00
+    </text>
+    <path d="M13.5-16.5h8.99v8.99H13.5z" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.01" transform="matrix(2.2023 0 0 2.49741 897.256 364.615)"/>
+    <text id="plaintext-right-11" transform="matrix(2.1964 0 0 2.50412 897.256 364.615)" x="14.69" y="-10.05">
+      00
+    </text>
+    <path d="M13.5-16.5h8.99v8.99H13.5z" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.01" transform="matrix(2.2023 0 0 2.49741 919.256 364.601)"/>
+    <text id="plaintext-right-12" transform="matrix(2.1964 0 0 2.50412 919.256 364.601)" x="14.69" y="-10.05">
+      00
+    </text>
+    <path d="M13.5-16.5h8.99v8.99H13.5z" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.01" transform="matrix(2.2023 0 0 2.49741 941.267 364.615)"/>
+    <text id="plaintext-right-13" transform="matrix(2.1964 0 0 2.50412 941.267 364.615)" x="14.69" y="-10.05">
+      00
+    </text>
+    <path d="M13.5-16.5h8.99v8.99H13.5z" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.01" transform="matrix(2.2023 0 0 2.49741 963.267 364.615)"/>
+    <text id="plaintext-right-14" transform="matrix(2.1964 0 0 2.50412 963.267 364.615)" x="14.69" y="-10.05">
+      00
+    </text>
+    <path d="M13.5-16.5h8.99v8.99H13.5z" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.01" transform="matrix(2.2023 0 0 2.49741 985.267 364.615)"/>
+    <text id="plaintext-right-15" transform="matrix(2.1964 0 0 2.50412 985.267 364.615)" x="14.69" y="-10.05">
+      00
+    </text>
+  </g>
+  <g fill="none" stroke="#000">
+    <path d="M875.471 279.136c0 5.058-3.822 9.159-8.537 9.159-4.715 0-8.537-4.1-8.537-9.16 0-5.057 3.822-9.158 8.537-9.158 4.715 0 8.537 4.1 8.537 9.159z" stroke-linecap="square" stroke-width="1.47"/>
+    <path d="M858.471 279.136h17" stroke-width="1.9"/>
+    <path d="M867.001 288.136v-18" stroke-width="2.08"/>
+  </g>
+  <path d="M241.803-108.01h205.52v219.02h217.163" fill="none" marker-end="url(#e)" stroke="#000" stroke-width="1.89" transform="translate(185.001 169.136)"/>
+  <path d="M240.937-122v46" fill="none" marker-end="url(#f)" stroke="#000" stroke-width="1.78" transform="translate(185.001 169.136)"/>
+  <text font-family="DejaVu Sans" font-size="17.68" letter-spacing="0" stroke-width="1.47" style="line-height:0%;text-align:center" text-anchor="middle" transform="matrix(.96544 0 0 1.0358 185.001 169.136)" word-spacing="0" x="250.04" y="-149.85">
+    Ciphertext
+  </text>
+  <g class="group" id="ciphertext-left">
+    <path d="M13.5-16.5h8.99v8.99H13.5z" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.01" transform="matrix(2.2023 0 0 2.49741 222.373 61.601)"/>
+    <text id="ciphertext-left-0" transform="matrix(2.1964 0 0 2.50412 222.373 61.601)" x="14.69" y="-10.05">
+      00
+    </text>
+    <path d="M13.5-16.5h8.99v8.99H13.5z" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.01" transform="matrix(2.2023 0 0 2.49741 244.385 61.615)"/>
+    <text id="ciphertext-left-1" transform="matrix(2.1964 0 0 2.50412 244.385 61.615)" x="14.69" y="-10.05">
+      00
+    </text>
+    <path d="M13.5-16.5h8.99v8.99H13.5z" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.01" transform="matrix(2.2023 0 0 2.49741 266.385 61.615)"/>
+    <text id="ciphertext-left-2" transform="matrix(2.1964 0 0 2.50412 266.385 61.615)" x="14.69" y="-10.05">
+      00
+    </text>
+    <path d="M13.5-16.5h8.99v8.99H13.5z" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.01" transform="matrix(2.2023 0 0 2.49741 288.385 61.615)"/>
+    <text id="ciphertext-left-3" transform="matrix(2.1964 0 0 2.50412 288.385 61.615)" x="14.69" y="-10.05">
+      00
+    </text>
+    <path d="M13.5-16.5h8.99v8.99H13.5z" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.01" transform="matrix(2.2023 0 0 2.49741 310.385 61.601)"/>
+    <text id="ciphertext-left-4" transform="matrix(2.1964 0 0 2.50412 310.385 61.601)" x="14.69" y="-10.05">
+      00
+    </text>
+    <path d="M13.5-16.5h8.99v8.99H13.5z" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.01" transform="matrix(2.2023 0 0 2.49741 332.396 61.615)"/>
+    <text id="ciphertext-left-5" transform="matrix(2.1964 0 0 2.50412 332.396 61.615)" x="14.69" y="-10.05">
+      00
+    </text>
+    <path d="M13.5-16.5h8.99v8.99H13.5z" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.01" transform="matrix(2.2023 0 0 2.49741 354.396 61.615)"/>
+    <text id="ciphertext-left-6" transform="matrix(2.1964 0 0 2.50412 354.396 61.615)" x="14.69" y="-10.05">
+      00
+    </text>
+    <path d="M13.5-16.5h8.99v8.99H13.5z" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.01" transform="matrix(2.2023 0 0 2.49741 376.396 61.615)"/>
+    <text id="ciphertext-left-7" transform="matrix(2.1964 0 0 2.50412 376.396 61.615)" x="14.69" y="-10.05">
+      00
+    </text>
+    <path d="M13.5-16.5h8.99v8.99H13.5z" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.01" transform="matrix(2.2023 0 0 2.49741 398.373 61.601)"/>
+    <text id="ciphertext-left-8" transform="matrix(2.1964 0 0 2.50412 398.373 61.601)" x="14.69" y="-10.05">
+      00
+    </text>
+    <path d="M13.5-16.5h8.99v8.99H13.5z" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.01" transform="matrix(2.2023 0 0 2.49741 420.385 61.615)"/>
+    <text id="ciphertext-left-9" transform="matrix(2.1964 0 0 2.50412 420.385 61.615)" x="14.69" y="-10.05">
+      00
+    </text>
+    <path d="M13.5-16.5h8.99v8.99H13.5z" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.01" transform="matrix(2.2023 0 0 2.49741 442.385 61.615)"/>
+    <text id="ciphertext-left-10" transform="matrix(2.1964 0 0 2.50412 442.385 61.615)" x="14.69" y="-10.05">
+      00
+    </text>
+    <path d="M13.5-16.5h8.99v8.99H13.5z" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.01" transform="matrix(2.2023 0 0 2.49741 464.385 61.615)"/>
+    <text id="ciphertext-left-11" transform="matrix(2.1964 0 0 2.50412 464.385 61.615)" x="14.69" y="-10.05">
+      00
+    </text>
+    <path d="M13.5-16.5h8.99v8.99H13.5z" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.01" transform="matrix(2.2023 0 0 2.49741 486.385 61.601)"/>
+    <text id="ciphertext-left-12" transform="matrix(2.1964 0 0 2.50412 486.385 61.601)" x="14.69" y="-10.05">
+      00
+    </text>
+    <path d="M13.5-16.5h8.99v8.99H13.5z" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.01" transform="matrix(2.2023 0 0 2.49741 508.396 61.615)"/>
+    <text id="ciphertext-left-13" transform="matrix(2.1964 0 0 2.50412 508.396 61.615)" x="14.69" y="-10.05">
+      00
+    </text>
+    <path d="M13.5-16.5h8.99v8.99H13.5z" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.01" transform="matrix(2.2023 0 0 2.49741 530.396 61.615)"/>
+    <text id="ciphertext-left-14" transform="matrix(2.1964 0 0 2.50412 530.396 61.615)" x="14.69" y="-10.05">
+      00
+    </text>
+    <path d="M13.5-16.5h8.99v8.99H13.5z" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.01" transform="matrix(2.2023 0 0 2.49741 552.396 61.615)"/>
+    <text id="ciphertext-left-15" transform="matrix(2.1964 0 0 2.50412 552.396 61.615)" x="14.69" y="-10.05">
+      00
+    </text>
+  </g>
+  <g fill="none" stroke="#000">
+    <path d="M240 123.15V148" marker-end="url(#g)" stroke-width="1.34" transform="translate(185.001 169.136)"/>
+    <path d="M434.471 279.136c0 5.058-3.822 9.159-8.537 9.159-4.715 0-8.537-4.1-8.537-9.16 0-5.057 3.822-9.158 8.537-9.158 4.715 0 8.537 4.1 8.537 9.159z" stroke-linecap="square" stroke-width="1.47"/>
+    <path d="M417.471 279.136h17" stroke-width="1.9"/>
+    <path d="M426.001 288.136v-18" stroke-width="2.08"/>
+  </g>
+  <g class="group" id="iv-left">
+    <path d="M13.5-16.5h8.99v8.99H13.5z" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.01" transform="matrix(2.2023 0 0 2.49741 -28.627 309.601)"/>
+    <text id="iv-left-0" transform="matrix(2.1964 0 0 2.50412 -28.627 309.601)" x="14.69" y="-10.05">
+      00
+    </text>
+    <path d="M13.5-16.5h8.99v8.99H13.5z" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.01" transform="matrix(2.2023 0 0 2.49741 -6.615 309.615)"/>
+    <text id="iv-left-1" transform="matrix(2.1964 0 0 2.50412 -6.615 309.615)" x="14.69" y="-10.05">
+      00
+    </text>
+    <path d="M13.5-16.5h8.99v8.99H13.5z" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.01" transform="matrix(2.2023 0 0 2.49741 15.385 309.615)"/>
+    <text id="iv-left-2" transform="matrix(2.1964 0 0 2.50412 15.385 309.615)" x="14.69" y="-10.05">
+      00
+    </text>
+    <path d="M13.5-16.5h8.99v8.99H13.5z" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.01" transform="matrix(2.2023 0 0 2.49741 37.385 309.615)"/>
+    <text id="iv-left-3" transform="matrix(2.1964 0 0 2.50412 37.385 309.615)" x="14.69" y="-10.05">
+      00
+    </text>
+    <path d="M13.5-16.5h8.99v8.99H13.5z" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.01" transform="matrix(2.2023 0 0 2.49741 59.385 309.601)"/>
+    <text id="iv-left-4" transform="matrix(2.1964 0 0 2.50412 59.385 309.601)" x="14.69" y="-10.05">
+      00
+    </text>
+    <path d="M13.5-16.5h8.99v8.99H13.5z" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.01" transform="matrix(2.2023 0 0 2.49741 81.396 309.615)"/>
+    <text id="iv-left-5" transform="matrix(2.1964 0 0 2.50412 81.396 309.615)" x="14.69" y="-10.05">
+      00
+    </text>
+    <path d="M13.5-16.5h8.99v8.99H13.5z" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.01" transform="matrix(2.2023 0 0 2.49741 103.396 309.615)"/>
+    <text id="iv-left-6" transform="matrix(2.1964 0 0 2.50412 103.396 309.615)" x="14.69" y="-10.05">
+      00
+    </text>
+    <path d="M13.5-16.5h8.99v8.99H13.5z" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.01" transform="matrix(2.2023 0 0 2.49741 125.396 309.615)"/>
+    <text id="iv-left-7" transform="matrix(2.1964 0 0 2.50412 125.396 309.615)" x="14.69" y="-10.05">
+      00
+    </text>
+    <path d="M13.5-16.5h8.99v8.99H13.5z" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.01" transform="matrix(2.2023 0 0 2.49741 147.373 309.601)"/>
+    <text id="iv-left-8" transform="matrix(2.1964 0 0 2.50412 147.373 309.601)" x="14.69" y="-10.05">
+      00
+    </text>
+    <path d="M13.5-16.5h8.99v8.99H13.5z" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.01" transform="matrix(2.2023 0 0 2.49741 169.385 309.615)"/>
+    <text id="iv-left-9" transform="matrix(2.1964 0 0 2.50412 169.385 309.615)" x="14.69" y="-10.05">
+      00
+    </text>
+    <path d="M13.5-16.5h8.99v8.99H13.5z" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.01" transform="matrix(2.2023 0 0 2.49741 191.385 309.615)"/>
+    <text id="iv-left-10" transform="matrix(2.1964 0 0 2.50412 191.385 309.615)" x="14.69" y="-10.05">
+      00
+    </text>
+    <path d="M13.5-16.5h8.99v8.99H13.5z" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.01" transform="matrix(2.2023 0 0 2.49741 213.385 309.615)"/>
+    <text id="iv-left-11" transform="matrix(2.1964 0 0 2.50412 213.385 309.615)" x="14.69" y="-10.05">
+      00
+    </text>
+    <path d="M13.5-16.5h8.99v8.99H13.5z" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.01" transform="matrix(2.2023 0 0 2.49741 235.385 309.601)"/>
+    <text id="iv-left-12" transform="matrix(2.1964 0 0 2.50412 235.385 309.601)" x="14.69" y="-10.05">
+      00
+    </text>
+    <path d="M13.5-16.5h8.99v8.99H13.5z" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.01" transform="matrix(2.2023 0 0 2.49741 257.396 309.615)"/>
+    <text id="iv-left-13" transform="matrix(2.1964 0 0 2.50412 257.396 309.615)" x="14.69" y="-10.05">
+      00
+    </text>
+    <path d="M13.5-16.5h8.99v8.99H13.5z" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.01" transform="matrix(2.2023 0 0 2.49741 279.396 309.615)"/>
+    <text id="iv-left-14" transform="matrix(2.1964 0 0 2.50412 279.396 309.615)" x="14.69" y="-10.05">
+      00
+    </text>
+    <path d="M13.5-16.5h8.99v8.99H13.5z" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.01" transform="matrix(2.2023 0 0 2.49741 301.396 309.615)"/>
+    <text id="iv-left-15" transform="matrix(2.1964 0 0 2.50412 301.396 309.615)" x="14.69" y="-10.05">
+      00
+    </text>
+  </g>
+  <path d="M170 110.06h55" fill="none" marker-end="url(#e)" stroke="#000" stroke-width="1.78" transform="translate(185.001 169.136)"/>
+  <text font-family="DejaVu Sans" font-size="17.68" letter-spacing="0" stroke-width="1.47" style="line-height:0%" transform="matrix(.96544 0 0 1.0358 185.001 169.136)" word-spacing="0" x="-98.08" y="86.27">
+    Initialization Vector (IV)
+  </text>
+  <g class="group" id="plaintext-left">
+    <path d="M13.5-16.5h8.99v8.99H13.5z" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.01" transform="matrix(2.2023 0 0 2.49741 222.373 364.318)"/>
+    <text id="plaintext-left-0" transform="matrix(2.1964 0 0 2.50412 222.373 364.318)" x="14.69" y="-10.05">
+      00
+    </text>
+    <path d="M13.5-16.5h8.99v8.99H13.5z" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.01" transform="matrix(2.2023 0 0 2.49741 244.385 364.33)"/>
+    <text id="plaintext-left-1" transform="matrix(2.1964 0 0 2.50412 244.385 364.33)" x="14.69" y="-10.05">
+      00
+    </text>
+    <path d="M13.5-16.5h8.99v8.99H13.5z" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.01" transform="matrix(2.2023 0 0 2.49741 266.385 364.33)"/>
+    <text id="plaintext-left-2" transform="matrix(2.1964 0 0 2.50412 266.385 364.33)" x="14.69" y="-10.05">
+      00
+    </text>
+    <path d="M13.5-16.5h8.99v8.99H13.5z" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.01" transform="matrix(2.2023 0 0 2.49741 288.385 364.33)"/>
+    <text id="plaintext-left-3" transform="matrix(2.1964 0 0 2.50412 288.385 364.33)" x="14.69" y="-10.05">
+      00
+    </text>
+    <path d="M13.5-16.5h8.99v8.99H13.5z" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.01" transform="matrix(2.2023 0 0 2.49741 310.385 364.318)"/>
+    <text id="plaintext-left-4" transform="matrix(2.1964 0 0 2.50412 310.385 364.318)" x="14.69" y="-10.05">
+      00
+    </text>
+    <path d="M13.5-16.5h8.99v8.99H13.5z" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.01" transform="matrix(2.2023 0 0 2.49741 332.396 364.33)"/>
+    <text id="plaintext-left-5" transform="matrix(2.1964 0 0 2.50412 332.396 364.33)" x="14.69" y="-10.05">
+      00
+    </text>
+    <path d="M13.5-16.5h8.99v8.99H13.5z" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.01" transform="matrix(2.2023 0 0 2.49741 354.396 364.33)"/>
+    <text id="plaintext-left-6" transform="matrix(2.1964 0 0 2.50412 354.396 364.33)" x="14.69" y="-10.05">
+      00
+    </text>
+    <path d="M13.5-16.5h8.99v8.99H13.5z" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.01" transform="matrix(2.2023 0 0 2.49741 376.396 364.33)"/>
+    <text id="plaintext-left-7" transform="matrix(2.1964 0 0 2.50412 376.396 364.33)" x="14.69" y="-10.05">
+      00
+    </text>
+    <path d="M13.5-16.5h8.99v8.99H13.5z" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.01" transform="matrix(2.2023 0 0 2.49741 398.373 364.318)"/>
+    <text id="plaintext-left-8" transform="matrix(2.1964 0 0 2.50412 398.373 364.318)" x="14.69" y="-10.05">
+      00
+    </text>
+    <path d="M13.5-16.5h8.99v8.99H13.5z" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.01" transform="matrix(2.2023 0 0 2.49741 420.385 364.33)"/>
+    <text id="plaintext-left-9" transform="matrix(2.1964 0 0 2.50412 420.385 364.33)" x="14.69" y="-10.05">
+      00
+    </text>
+    <path d="M13.5-16.5h8.99v8.99H13.5z" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.01" transform="matrix(2.2023 0 0 2.49741 442.385 364.33)"/>
+    <text id="plaintext-left-10" transform="matrix(2.1964 0 0 2.50412 442.385 364.33)" x="14.69" y="-10.05">
+      00
+    </text>
+    <path d="M13.5-16.5h8.99v8.99H13.5z" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.01" transform="matrix(2.2023 0 0 2.49741 464.385 364.33)"/>
+    <text id="plaintext-left-11" transform="matrix(2.1964 0 0 2.50412 464.385 364.33)" x="14.69" y="-10.05">
+      00
+    </text>
+    <path d="M13.5-16.5h8.99v8.99H13.5z" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.01" transform="matrix(2.2023 0 0 2.49741 486.385 364.318)"/>
+    <text id="plaintext-left-12" transform="matrix(2.1964 0 0 2.50412 486.385 364.318)" x="14.69" y="-10.05">
+      00
+    </text>
+    <path d="M13.5-16.5h8.99v8.99H13.5z" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.01" transform="matrix(2.2023 0 0 2.49741 508.396 364.33)"/>
+    <text id="plaintext-left-13" transform="matrix(2.1964 0 0 2.50412 508.396 364.33)" x="14.69" y="-10.05">
+      00
+    </text>
+    <path d="M13.5-16.5h8.99v8.99H13.5z" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.01" transform="matrix(2.2023 0 0 2.49741 530.396 364.33)"/>
+    <text id="plaintext-left-14" transform="matrix(2.1964 0 0 2.50412 530.396 364.33)" x="14.69" y="-10.05">
+      00
+    </text>
+    <path d="M13.5-16.5h8.99v8.99H13.5z" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.01" transform="matrix(2.2023 0 0 2.49741 552.396 364.33)"/>
+    <text id="plaintext-left-15" transform="matrix(2.1964 0 0 2.50412 552.396 364.33)" x="14.69" y="-10.05">
+      00
+    </text>
+  </g>
+  <text font-family="DejaVu Sans" font-size="17.68" letter-spacing="0" stroke-width="1.47" style="line-height:0%" transform="scale(.96544 1.0358)" word-spacing="0" x="393.94" y="355.28">
+    Plaintext
+  </text>
+  <path d="M241.437-11V9" fill="none" marker-end="url(#h)" stroke="#000" stroke-width="1.7" transform="translate(185.001 169.136)"/>
+  <g stroke-width="1.47">
+    <text font-family="DejaVu Sans" font-size="17.68" letter-spacing="0" style="line-height:0%;text-align:center" text-anchor="middle" transform="matrix(.96544 0 0 1.0358 185.001 169.136)" word-spacing="0" x="248.18" y="-46.35"><tspan style="line-height:1.25" x="248.18" y="-46.35">block cipher</tspan> <tspan style="line-height:1.25" x="248.18" y="-24.24">decryption</tspan></text>
+    <path d="M355.651 100.046h139.44v54.95h-139.44z" fill="none" stroke="#000" stroke-linecap="square"/>
+  </g>
+  <text font-family="DejaVu Sans" font-size="17.18" letter-spacing="0" stroke-width="1.43" style="line-height:0%" transform="matrix(.93795 0 0 1.06615 185.001 169.136)" word-spacing="0" x="-10.34" y="-56.49">
+    Key
+  </text>
+  <g class="group" id="key-left">
+    <path d="M13.5-16.5h8.99v8.99H13.5z" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.01" transform="matrix(2.2023 0 0 2.49741 -28.627 158.601)"/>
+    <text id="key-left-0" transform="matrix(2.1964 0 0 2.50412 -28.627 158.601)" x="14.69" y="-10.05">
+      00
+    </text>
+    <path d="M13.5-16.5h8.99v8.99H13.5z" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.01" transform="matrix(2.2023 0 0 2.49741 -6.615 158.615)"/>
+    <text id="key-left-1" transform="matrix(2.1964 0 0 2.50412 -6.615 158.615)" x="14.69" y="-10.05">
+      00
+    </text>
+    <path d="M13.5-16.5h8.99v8.99H13.5z" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.01" transform="matrix(2.2023 0 0 2.49741 15.385 158.615)"/>
+    <text id="key-left-2" transform="matrix(2.1964 0 0 2.50412 15.385 158.615)" x="14.69" y="-10.05">
+      00
+    </text>
+    <path d="M13.5-16.5h8.99v8.99H13.5z" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.01" transform="matrix(2.2023 0 0 2.49741 37.385 158.615)"/>
+    <text id="key-left-3" transform="matrix(2.1964 0 0 2.50412 37.385 158.615)" x="14.69" y="-10.05">
+      00
+    </text>
+    <path d="M13.5-16.5h8.99v8.99H13.5z" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.01" transform="matrix(2.2023 0 0 2.49741 59.385 158.601)"/>
+    <text id="key-left-4" transform="matrix(2.1964 0 0 2.50412 59.385 158.601)" x="14.69" y="-10.05">
+      00
+    </text>
+    <path d="M13.5-16.5h8.99v8.99H13.5z" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.01" transform="matrix(2.2023 0 0 2.49741 81.396 158.615)"/>
+    <text id="key-left-5" transform="matrix(2.1964 0 0 2.50412 81.396 158.615)" x="14.69" y="-10.05">
+      00
+    </text>
+    <path d="M13.5-16.5h8.99v8.99H13.5z" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.01" transform="matrix(2.2023 0 0 2.49741 103.396 158.615)"/>
+    <text id="key-left-6" transform="matrix(2.1964 0 0 2.50412 103.396 158.615)" x="14.69" y="-10.05">
+      00
+    </text>
+    <path d="M13.5-16.5h8.99v8.99H13.5z" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.01" transform="matrix(2.2023 0 0 2.49741 125.396 158.615)"/>
+    <text id="key-left-7" transform="matrix(2.1964 0 0 2.50412 125.396 158.615)" x="14.69" y="-10.05">
+      00
+    </text>
+    <path d="M13.5-16.5h8.99v8.99H13.5z" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.01" transform="matrix(2.2023 0 0 2.49741 147.373 158.601)"/>
+    <text id="key-left-8" transform="matrix(2.1964 0 0 2.50412 147.373 158.601)" x="14.69" y="-10.05">
+      00
+    </text>
+    <path d="M13.5-16.5h8.99v8.99H13.5z" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.01" transform="matrix(2.2023 0 0 2.49741 169.385 158.615)"/>
+    <text id="key-left-9" transform="matrix(2.1964 0 0 2.50412 169.385 158.615)" x="14.69" y="-10.05">
+      00
+    </text>
+    <path d="M13.5-16.5h8.99v8.99H13.5z" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.01" transform="matrix(2.2023 0 0 2.49741 191.385 158.615)"/>
+    <text id="key-left-10" transform="matrix(2.1964 0 0 2.50412 191.385 158.615)" x="14.69" y="-10.05">
+      00
+    </text>
+    <path d="M13.5-16.5h8.99v8.99H13.5z" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.01" transform="matrix(2.2023 0 0 2.49741 213.385 158.615)"/>
+    <text id="key-left-11" transform="matrix(2.1964 0 0 2.50412 213.385 158.615)" x="14.69" y="-10.05">
+      00
+    </text>
+    <path d="M13.5-16.5h8.99v8.99H13.5z" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.01" transform="matrix(2.2023 0 0 2.49741 235.385 158.601)"/>
+    <text id="key-left-12" transform="matrix(2.1964 0 0 2.50412 235.385 158.601)" x="14.69" y="-10.05">
+      00
+    </text>
+    <path d="M13.5-16.5h8.99v8.99H13.5z" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.01" transform="matrix(2.2023 0 0 2.49741 257.396 158.615)"/>
+    <text id="key-left-13" transform="matrix(2.1964 0 0 2.50412 257.396 158.615)" x="14.69" y="-10.05">
+      00
+    </text>
+    <path d="M13.5-16.5h8.99v8.99H13.5z" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.01" transform="matrix(2.2023 0 0 2.49741 279.396 158.615)"/>
+    <text id="key-left-14" transform="matrix(2.1964 0 0 2.50412 279.396 158.615)" x="14.69" y="-10.05">
+      00
+    </text>
+    <path d="M13.5-16.5h8.99v8.99H13.5z" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.01" transform="matrix(2.2023 0 0 2.49741 301.396 158.615)"/>
+    <text id="key-left-15" transform="matrix(2.1964 0 0 2.50412 301.396 158.615)" x="14.69" y="-10.05">
+      00
+    </text>
+  </g>
+  <path d="M31-64.985L160-65" fill="none" marker-end="url(#a)" stroke="#000" stroke-width="1.81" transform="translate(185.001 169.136)"/>
+  <path d="M241.213 61v34" fill="none" marker-end="url(#i)" stroke="#000" stroke-width="1.73" transform="translate(185.001 169.136)"/>
+  <text font-family="DejaVu Sans" font-size="17.68" letter-spacing="0" stroke-width="1.47" style="line-height:0%" transform="scale(.96544 1.0358)" word-spacing="0" x="393.94" y="187.78">
+    Decrypted
+  </text>
+  <g class="group" id="decrypted-left">
+    <path d="M13.5-16.5h8.99v8.99H13.5z" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.01" transform="matrix(2.2023 0 0 2.49741 222.373 244.318)"/>
+    <text id="decrypted-left-0" transform="matrix(2.1964 0 0 2.50412 222.373 244.318)" x="14.69" y="-10.05">
+      00
+    </text>
+    <path d="M13.5-16.5h8.99v8.99H13.5z" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.01" transform="matrix(2.2023 0 0 2.49741 244.385 244.33)"/>
+    <text id="decrypted-left-1" transform="matrix(2.1964 0 0 2.50412 244.385 244.33)" x="14.69" y="-10.05">
+      00
+    </text>
+    <path d="M13.5-16.5h8.99v8.99H13.5z" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.01" transform="matrix(2.2023 0 0 2.49741 266.385 244.33)"/>
+    <text id="decrypted-left-2" transform="matrix(2.1964 0 0 2.50412 266.385 244.33)" x="14.69" y="-10.05">
+      00
+    </text>
+    <path d="M13.5-16.5h8.99v8.99H13.5z" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.01" transform="matrix(2.2023 0 0 2.49741 288.385 244.33)"/>
+    <text id="decrypted-left-3" transform="matrix(2.1964 0 0 2.50412 288.385 244.33)" x="14.69" y="-10.05">
+      00
+    </text>
+    <path d="M13.5-16.5h8.99v8.99H13.5z" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.01" transform="matrix(2.2023 0 0 2.49741 310.385 244.318)"/>
+    <text id="decrypted-left-4" transform="matrix(2.1964 0 0 2.50412 310.385 244.318)" x="14.69" y="-10.05">
+      00
+    </text>
+    <path d="M13.5-16.5h8.99v8.99H13.5z" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.01" transform="matrix(2.2023 0 0 2.49741 332.396 244.33)"/>
+    <text id="decrypted-left-5" transform="matrix(2.1964 0 0 2.50412 332.396 244.33)" x="14.69" y="-10.05">
+      00
+    </text>
+    <path d="M13.5-16.5h8.99v8.99H13.5z" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.01" transform="matrix(2.2023 0 0 2.49741 354.396 244.33)"/>
+    <text id="decrypted-left-6" transform="matrix(2.1964 0 0 2.50412 354.396 244.33)" x="14.69" y="-10.05">
+      00
+    </text>
+    <path d="M13.5-16.5h8.99v8.99H13.5z" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.01" transform="matrix(2.2023 0 0 2.49741 376.396 244.33)"/>
+    <text id="decrypted-left-7" transform="matrix(2.1964 0 0 2.50412 376.396 244.33)" x="14.69" y="-10.05">
+      00
+    </text>
+    <path d="M13.5-16.5h8.99v8.99H13.5z" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.01" transform="matrix(2.2023 0 0 2.49741 398.373 244.318)"/>
+    <text id="decrypted-left-8" transform="matrix(2.1964 0 0 2.50412 398.373 244.318)" x="14.69" y="-10.05">
+      00
+    </text>
+    <path d="M13.5-16.5h8.99v8.99H13.5z" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.01" transform="matrix(2.2023 0 0 2.49741 420.385 244.33)"/>
+    <text id="decrypted-left-9" transform="matrix(2.1964 0 0 2.50412 420.385 244.33)" x="14.69" y="-10.05">
+      00
+    </text>
+    <path d="M13.5-16.5h8.99v8.99H13.5z" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.01" transform="matrix(2.2023 0 0 2.49741 442.385 244.33)"/>
+    <text id="decrypted-left-10" transform="matrix(2.1964 0 0 2.50412 442.385 244.33)" x="14.69" y="-10.05">
+      00
+    </text>
+    <path d="M13.5-16.5h8.99v8.99H13.5z" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.01" transform="matrix(2.2023 0 0 2.49741 464.385 244.33)"/>
+    <text id="decrypted-left-11" transform="matrix(2.1964 0 0 2.50412 464.385 244.33)" x="14.69" y="-10.05">
+      00
+    </text>
+    <path d="M13.5-16.5h8.99v8.99H13.5z" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.01" transform="matrix(2.2023 0 0 2.49741 486.385 244.318)"/>
+    <text id="decrypted-left-12" transform="matrix(2.1964 0 0 2.50412 486.385 244.318)" x="14.69" y="-10.05">
+      00
+    </text>
+    <path d="M13.5-16.5h8.99v8.99H13.5z" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.01" transform="matrix(2.2023 0 0 2.49741 508.396 244.33)"/>
+    <text id="decrypted-left-13" transform="matrix(2.1964 0 0 2.50412 508.396 244.33)" x="14.69" y="-10.05">
+      00
+    </text>
+    <path d="M13.5-16.5h8.99v8.99H13.5z" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.01" transform="matrix(2.2023 0 0 2.49741 530.396 244.33)"/>
+    <text id="decrypted-left-14" transform="matrix(2.1964 0 0 2.50412 530.396 244.33)" x="14.69" y="-10.05">
+      00
+    </text>
+    <path d="M13.5-16.5h8.99v8.99H13.5z" fill="none" stroke="#000" stroke-linecap="square" stroke-width="1.01" transform="matrix(2.2023 0 0 2.49741 552.396 244.33)"/>
+    <text id="decrypted-left-15" transform="matrix(2.1964 0 0 2.50412 552.396 244.33)" x="14.69" y="-10.05">
+      00
+    </text>
+  </g>
+</svg>

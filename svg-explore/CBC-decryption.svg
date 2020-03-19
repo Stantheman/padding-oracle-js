@@ -1,0 +1,2519 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg623"
+   inkscape:version=""
+   sodipodi:docname="CBC-decryption.svg"
+   version="1.1"
+   viewBox="0 0 1043.11 422.14">
+  <metadata
+     id="metadata627">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     bordercolor="#666666"
+     borderopacity="1"
+     gridtolerance="10"
+     guidetolerance="10"
+     id="namedview625"
+     inkscape:current-layer="svg623"
+     inkscape:cx="859.3348"
+     inkscape:cy="352.52295"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-height="878"
+     inkscape:window-maximized="1"
+     inkscape:window-width="800"
+     inkscape:window-x="800"
+     inkscape:window-y="22"
+     inkscape:zoom="12.971986"
+     objecttolerance="10"
+     pagecolor="#ffffff"
+     showgrid="false" />
+  <defs
+     id="defs29">
+    <marker
+       id="a"
+       orient="auto"
+       overflow="visible">
+      <path
+         d="M-4 0l-2 2 7-2-7-2z"
+         fill-rule="evenodd"
+         id="path2"
+         stroke="#000"
+         stroke-width=".53" />
+    </marker>
+    <marker
+       id="e"
+       orient="auto"
+       overflow="visible">
+      <path
+         d="M-4 0l-2 2 7-2-7-2z"
+         fill-rule="evenodd"
+         id="path5"
+         stroke="#000"
+         stroke-width=".53" />
+    </marker>
+    <marker
+       id="g"
+       orient="auto"
+       overflow="visible">
+      <path
+         d="M-4 0l-2 2 7-2-7-2z"
+         fill-rule="evenodd"
+         id="path8"
+         stroke="#000"
+         stroke-width=".53" />
+    </marker>
+    <marker
+       id="b"
+       orient="auto"
+       overflow="visible">
+      <path
+         d="M-4 0l-2 2 7-2-7-2z"
+         fill-rule="evenodd"
+         id="path11"
+         stroke="#000"
+         stroke-width=".53" />
+    </marker>
+    <marker
+       id="h"
+       orient="auto"
+       overflow="visible">
+      <path
+         d="M-4 0l-2 2 7-2-7-2z"
+         fill-rule="evenodd"
+         id="path14"
+         stroke="#000"
+         stroke-width=".53" />
+    </marker>
+    <marker
+       id="c"
+       orient="auto"
+       overflow="visible">
+      <path
+         d="M-4 0l-2 2 7-2-7-2z"
+         fill-rule="evenodd"
+         id="path17"
+         stroke="#000"
+         stroke-width=".53" />
+    </marker>
+    <marker
+       id="f"
+       orient="auto"
+       overflow="visible">
+      <path
+         d="M-4 0l-2 2 7-2-7-2z"
+         fill-rule="evenodd"
+         id="path20"
+         stroke="#000"
+         stroke-width=".53" />
+    </marker>
+    <marker
+       id="i"
+       orient="auto"
+       overflow="visible">
+      <path
+         d="M-4 0l-2 2 7-2-7-2z"
+         fill-rule="evenodd"
+         id="path23"
+         stroke="#000"
+         stroke-width=".53" />
+    </marker>
+    <marker
+       id="d"
+       orient="auto"
+       overflow="visible">
+      <path
+         d="M-4 0l-2 2 7-2-7-2z"
+         fill-rule="evenodd"
+         id="path26"
+         stroke="#000"
+         stroke-width=".53" />
+    </marker>
+  </defs>
+  <text
+     font-family="DejaVu Sans"
+     font-size="17.68"
+     id="text31"
+     letter-spacing="0"
+     stroke-width="1.47"
+     style="line-height:0%"
+     transform="matrix(.96544 0 0 1.0358 185.001 169.136)"
+     word-spacing="0"
+     x="529.87"
+     y="-43.16">
+    Key
+  </text>
+  <text
+     font-family="DejaVu Sans"
+     font-size="17.68"
+     id="text33"
+     letter-spacing="0"
+     stroke-width="1.47"
+     style="line-height:0%;text-align:center"
+     text-anchor="middle"
+     transform="matrix(.96544 0 0 1.0358 185.001 169.136)"
+     word-spacing="0"
+     x="705.86"
+     y="-149.85">
+    Ciphertext
+  </text>
+  <path
+     d="M 867.195,49.220011 V 91.056"
+     id="path35"
+     inkscape:connector-curvature="0"
+     style="fill:none;stroke:#000000;stroke-width:1.70755911;marker-end:url(#a)" />
+  <path
+     d="M681.858 122v25"
+     fill="none"
+     id="path37"
+     marker-end="url(#a)"
+     stroke="#000"
+     stroke-width="1.83"
+     transform="translate(185.001 169.136)" />
+  <text
+     font-size="17.68"
+     id="text39"
+     letter-spacing="0"
+     style="font-size:17.6800251px;line-height:0%;font-family:'DejaVu Sans';letter-spacing:0;word-spacing:0;stroke-width:1.47000206"
+     transform="scale(0.96543867,1.0357986)"
+     word-spacing="0"
+     x="849.69122"
+     y="355.36072">Plaintext</text>
+  <g
+     id="g49"
+     stroke-width="1.47">
+    <text
+       font-family="DejaVu Sans"
+       font-size="17.68"
+       id="text45"
+       letter-spacing="0"
+       style="line-height:0%;text-align:center"
+       text-anchor="middle"
+       transform="matrix(.96544 0 0 1.0358 185.001 169.136)"
+       word-spacing="0"
+       x="705.33"
+       y="-46.06">
+      <tspan
+         id="tspan41"
+         style="line-height:1.25"
+         x="705.33"
+         y="-46.06">block cipher</tspan>
+      <tspan
+         id="tspan43"
+         style="line-height:1.25"
+         x="705.33"
+         y="-23.95">decryption</tspan>
+    </text>
+    <path
+       d="M797.011 100.446h139.44v54.95h-139.44z"
+       fill="none"
+       id="path47"
+       stroke="#000"
+       stroke-linecap="square" />
+  </g>
+  <text
+     font-size="17.68"
+     id="text51"
+     letter-spacing="0"
+     style="font-size:17.6800251px;line-height:0%;font-family:'DejaVu Sans';letter-spacing:0;word-spacing:0;stroke-width:1.47000206"
+     transform="scale(0.96543867,1.0357986)"
+     word-spacing="0"
+     x="849.69122"
+     y="187.78047">Decrypted</text>
+  <path
+     d="M681.403-11v21"
+     fill="none"
+     id="path53"
+     marker-end="url(#b)"
+     stroke="#000"
+     stroke-width="1.78"
+     transform="translate(185.001 169.136)" />
+  <path
+     d="M550-49.459h50"
+     fill="none"
+     id="path55"
+     marker-end="url(#c)"
+     stroke="#000"
+     stroke-width="1.73"
+     transform="translate(185.001 169.136)" />
+  <g
+     inkscape:label="ciphertext-right"
+     id="ciphertext-right">
+    <path
+       d="m 13.5,-16.5 h 8.99 v 8.99 H 13.5 Z"
+       id="path57"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:1.00999999;stroke-linecap:square"
+       transform="matrix(2.2023,0,0,2.49741,662.436,61.601)" />
+    <text
+       font-size="5.27"
+       font-weight="400"
+       id="text59"
+       letter-spacing="0"
+       style="font-weight:400;font-size:5.26999998px;line-height:1.25;font-family:sans-serif;letter-spacing:0;word-spacing:0;stroke-width:0.99000001"
+       transform="matrix(2.1964,0,0,2.50412,662.436,61.601)"
+       word-spacing="0"
+       x="14.69"
+       y="-10.05">00</text>
+    <path
+       d="m 13.5,-16.5 h 8.99 v 8.99 H 13.5 Z"
+       id="path61"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:1.00999999;stroke-linecap:square"
+       transform="matrix(2.2023,0,0,2.49741,684.447,61.615)" />
+    <text
+       font-size="5.27"
+       font-weight="400"
+       id="text63"
+       letter-spacing="0"
+       style="font-weight:400;font-size:5.26999998px;line-height:1.25;font-family:sans-serif;letter-spacing:0;word-spacing:0;stroke-width:0.99000001"
+       transform="matrix(2.1964,0,0,2.50412,684.447,61.615)"
+       word-spacing="0"
+       x="14.69"
+       y="-10.05">00</text>
+    <path
+       d="m 13.5,-16.5 h 8.99 v 8.99 H 13.5 Z"
+       id="path65"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:1.00999999;stroke-linecap:square"
+       transform="matrix(2.2023,0,0,2.49741,706.447,61.615)" />
+    <text
+       font-size="5.27"
+       font-weight="400"
+       id="text67"
+       letter-spacing="0"
+       style="font-weight:400;font-size:5.26999998px;line-height:1.25;font-family:sans-serif;letter-spacing:0;word-spacing:0;stroke-width:0.99000001"
+       transform="matrix(2.1964,0,0,2.50412,706.447,61.615)"
+       word-spacing="0"
+       x="14.69"
+       y="-10.05">00</text>
+    <path
+       d="m 13.5,-16.5 h 8.99 v 8.99 H 13.5 Z"
+       id="path69"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:1.00999999;stroke-linecap:square"
+       transform="matrix(2.2023,0,0,2.49741,728.447,61.615)" />
+    <text
+       font-size="5.27"
+       font-weight="400"
+       id="text71"
+       letter-spacing="0"
+       style="font-weight:400;font-size:5.26999998px;line-height:1.25;font-family:sans-serif;letter-spacing:0;word-spacing:0;stroke-width:0.99000001"
+       transform="matrix(2.1964,0,0,2.50412,728.447,61.615)"
+       word-spacing="0"
+       x="14.69"
+       y="-10.05">00</text>
+    <path
+       d="m 13.5,-16.5 h 8.99 v 8.99 H 13.5 Z"
+       id="path73"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:1.00999999;stroke-linecap:square"
+       transform="matrix(2.2023,0,0,2.49741,750.447,61.601)" />
+    <text
+       font-size="5.27"
+       font-weight="400"
+       id="text75"
+       letter-spacing="0"
+       style="font-weight:400;font-size:5.26999998px;line-height:1.25;font-family:sans-serif;letter-spacing:0;word-spacing:0;stroke-width:0.99000001"
+       transform="matrix(2.1964,0,0,2.50412,750.447,61.601)"
+       word-spacing="0"
+       x="14.69"
+       y="-10.05">00</text>
+    <path
+       d="m 13.5,-16.5 h 8.99 v 8.99 H 13.5 Z"
+       id="path77"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:1.00999999;stroke-linecap:square"
+       transform="matrix(2.2023,0,0,2.49741,772.459,61.615)" />
+    <text
+       font-size="5.27"
+       font-weight="400"
+       id="text79"
+       letter-spacing="0"
+       style="font-weight:400;font-size:5.26999998px;line-height:1.25;font-family:sans-serif;letter-spacing:0;word-spacing:0;stroke-width:0.99000001"
+       transform="matrix(2.1964,0,0,2.50412,772.459,61.615)"
+       word-spacing="0"
+       x="14.69"
+       y="-10.05">00</text>
+    <path
+       d="m 13.5,-16.5 h 8.99 v 8.99 H 13.5 Z"
+       id="path81"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:1.00999999;stroke-linecap:square"
+       transform="matrix(2.2023,0,0,2.49741,794.459,61.615)" />
+    <text
+       font-size="5.27"
+       font-weight="400"
+       id="text83"
+       letter-spacing="0"
+       style="font-weight:400;font-size:5.26999998px;line-height:1.25;font-family:sans-serif;letter-spacing:0;word-spacing:0;stroke-width:0.99000001"
+       transform="matrix(2.1964,0,0,2.50412,794.459,61.615)"
+       word-spacing="0"
+       x="14.69"
+       y="-10.05">00</text>
+    <path
+       d="m 13.5,-16.5 h 8.99 v 8.99 H 13.5 Z"
+       id="path85"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:1.00999999;stroke-linecap:square"
+       transform="matrix(2.2023,0,0,2.49741,816.459,61.615)" />
+    <text
+       font-size="5.27"
+       font-weight="400"
+       id="text87"
+       letter-spacing="0"
+       style="font-weight:400;font-size:5.26999998px;line-height:1.25;font-family:sans-serif;letter-spacing:0;word-spacing:0;stroke-width:0.99000001"
+       transform="matrix(2.1964,0,0,2.50412,816.459,61.615)"
+       word-spacing="0"
+       x="14.69"
+       y="-10.05">00</text>
+    <path
+       d="m 13.5,-16.5 h 8.99 v 8.99 H 13.5 Z"
+       id="path89"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:1.00999999;stroke-linecap:square"
+       transform="matrix(2.2023,0,0,2.49741,838.436,61.601)" />
+    <text
+       font-size="5.27"
+       font-weight="400"
+       id="text91"
+       letter-spacing="0"
+       style="font-weight:400;font-size:5.26999998px;line-height:1.25;font-family:sans-serif;letter-spacing:0;word-spacing:0;stroke-width:0.99000001"
+       transform="matrix(2.1964,0,0,2.50412,838.436,61.601)"
+       word-spacing="0"
+       x="14.69"
+       y="-10.05">00</text>
+    <path
+       d="m 13.5,-16.5 h 8.99 v 8.99 H 13.5 Z"
+       id="path93"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:1.00999999;stroke-linecap:square"
+       transform="matrix(2.2023,0,0,2.49741,860.447,61.615)" />
+    <text
+       font-size="5.27"
+       font-weight="400"
+       id="text95"
+       letter-spacing="0"
+       style="font-weight:400;font-size:5.26999998px;line-height:1.25;font-family:sans-serif;letter-spacing:0;word-spacing:0;stroke-width:0.99000001"
+       transform="matrix(2.1964,0,0,2.50412,860.447,61.615)"
+       word-spacing="0"
+       x="14.69"
+       y="-10.05">00</text>
+    <path
+       d="m 13.5,-16.5 h 8.99 v 8.99 H 13.5 Z"
+       id="path97"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:1.00999999;stroke-linecap:square"
+       transform="matrix(2.2023,0,0,2.49741,882.447,61.615)" />
+    <text
+       font-size="5.27"
+       font-weight="400"
+       id="text99"
+       letter-spacing="0"
+       style="font-weight:400;font-size:5.26999998px;line-height:1.25;font-family:sans-serif;letter-spacing:0;word-spacing:0;stroke-width:0.99000001"
+       transform="matrix(2.1964,0,0,2.50412,882.447,61.615)"
+       word-spacing="0"
+       x="14.69"
+       y="-10.05">00</text>
+    <path
+       d="m 13.5,-16.5 h 8.99 v 8.99 H 13.5 Z"
+       id="path101"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:1.00999999;stroke-linecap:square"
+       transform="matrix(2.2023,0,0,2.49741,904.447,61.615)" />
+    <text
+       font-size="5.27"
+       font-weight="400"
+       id="text103"
+       letter-spacing="0"
+       style="font-weight:400;font-size:5.26999998px;line-height:1.25;font-family:sans-serif;letter-spacing:0;word-spacing:0;stroke-width:0.99000001"
+       transform="matrix(2.1964,0,0,2.50412,904.447,61.615)"
+       word-spacing="0"
+       x="14.69"
+       y="-10.05">00</text>
+    <path
+       d="m 13.5,-16.5 h 8.99 v 8.99 H 13.5 Z"
+       id="path105"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:1.00999999;stroke-linecap:square"
+       transform="matrix(2.2023,0,0,2.49741,926.447,61.601)" />
+    <text
+       font-size="5.27"
+       font-weight="400"
+       id="text107"
+       letter-spacing="0"
+       style="font-weight:400;font-size:5.26999998px;line-height:1.25;font-family:sans-serif;letter-spacing:0;word-spacing:0;stroke-width:0.99000001"
+       transform="matrix(2.1964,0,0,2.50412,926.447,61.601)"
+       word-spacing="0"
+       x="14.69"
+       y="-10.05">00</text>
+    <path
+       d="m 13.5,-16.5 h 8.99 v 8.99 H 13.5 Z"
+       id="path109"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:1.00999999;stroke-linecap:square"
+       transform="matrix(2.2023,0,0,2.49741,948.459,61.615)" />
+    <text
+       font-size="5.27"
+       font-weight="400"
+       id="text111"
+       letter-spacing="0"
+       style="font-weight:400;font-size:5.26999998px;line-height:1.25;font-family:sans-serif;letter-spacing:0;word-spacing:0;stroke-width:0.99000001"
+       transform="matrix(2.1964,0,0,2.50412,948.459,61.615)"
+       word-spacing="0"
+       x="14.69"
+       y="-10.05">00</text>
+    <path
+       d="m 13.5,-16.5 h 8.99 v 8.99 H 13.5 Z"
+       id="path113"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:1.00999999;stroke-linecap:square"
+       transform="matrix(2.2023,0,0,2.49741,970.459,61.615)" />
+    <text
+       font-size="5.27"
+       font-weight="400"
+       id="text115"
+       letter-spacing="0"
+       style="font-weight:400;font-size:5.26999998px;line-height:1.25;font-family:sans-serif;letter-spacing:0;word-spacing:0;stroke-width:0.99000001"
+       transform="matrix(2.1964,0,0,2.50412,970.459,61.615)"
+       word-spacing="0"
+       x="14.69"
+       y="-10.05">00</text>
+    <path
+       d="m 13.5,-16.5 h 8.99 v 8.99 H 13.5 Z"
+       id="path117"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:1.00999999;stroke-linecap:square"
+       transform="matrix(2.2023,0,0,2.49741,992.459,61.615)" />
+    <text
+       font-size="5.27"
+       font-weight="400"
+       id="text119"
+       letter-spacing="0"
+       style="font-weight:400;font-size:5.26999998px;line-height:1.25;font-family:sans-serif;letter-spacing:0;word-spacing:0;stroke-width:0.99000001"
+       transform="matrix(2.1964,0,0,2.50412,992.459,61.615)"
+       word-spacing="0"
+       x="14.69"
+       y="-10.05">00</text>
+  </g>
+  <g
+     inkscape:label="decrypted-right"
+     id="decrypted-right">
+    <path
+       d="m 13.5,-16.5 h 8.99 v 8.99 H 13.5 Z"
+       id="path121"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:1.00999999;stroke-linecap:square"
+       transform="matrix(2.2023,0,0,2.49741,662.373,244.601)" />
+    <text
+       font-size="5.27"
+       font-weight="400"
+       id="text123"
+       letter-spacing="0"
+       style="font-weight:400;font-size:5.26999998px;line-height:1.25;font-family:sans-serif;letter-spacing:0;word-spacing:0;stroke-width:0.99000001"
+       transform="matrix(2.1964,0,0,2.50412,662.373,244.601)"
+       word-spacing="0"
+       x="14.69"
+       y="-10.05">00</text>
+    <path
+       d="m 13.5,-16.5 h 8.99 v 8.99 H 13.5 Z"
+       id="path125"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:1.00999999;stroke-linecap:square"
+       transform="matrix(2.2023,0,0,2.49741,684.385,244.615)" />
+    <text
+       font-size="5.27"
+       font-weight="400"
+       id="text127"
+       letter-spacing="0"
+       style="font-weight:400;font-size:5.26999998px;line-height:1.25;font-family:sans-serif;letter-spacing:0;word-spacing:0;stroke-width:0.99000001"
+       transform="matrix(2.1964,0,0,2.50412,684.385,244.615)"
+       word-spacing="0"
+       x="14.69"
+       y="-10.05">00</text>
+    <path
+       d="m 13.5,-16.5 h 8.99 v 8.99 H 13.5 Z"
+       id="path129"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:1.00999999;stroke-linecap:square"
+       transform="matrix(2.2023,0,0,2.49741,706.385,244.615)" />
+    <text
+       font-size="5.27"
+       font-weight="400"
+       id="text131"
+       letter-spacing="0"
+       style="font-weight:400;font-size:5.26999998px;line-height:1.25;font-family:sans-serif;letter-spacing:0;word-spacing:0;stroke-width:0.99000001"
+       transform="matrix(2.1964,0,0,2.50412,706.385,244.615)"
+       word-spacing="0"
+       x="14.69"
+       y="-10.05">00</text>
+    <path
+       d="m 13.5,-16.5 h 8.99 v 8.99 H 13.5 Z"
+       id="path133"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:1.00999999;stroke-linecap:square"
+       transform="matrix(2.2023,0,0,2.49741,728.385,244.615)" />
+    <text
+       font-size="5.27"
+       font-weight="400"
+       id="text135"
+       letter-spacing="0"
+       style="font-weight:400;font-size:5.26999998px;line-height:1.25;font-family:sans-serif;letter-spacing:0;word-spacing:0;stroke-width:0.99000001"
+       transform="matrix(2.1964,0,0,2.50412,728.385,244.615)"
+       word-spacing="0"
+       x="14.69"
+       y="-10.05">00</text>
+    <path
+       d="m 13.5,-16.5 h 8.99 v 8.99 H 13.5 Z"
+       id="path137"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:1.00999999;stroke-linecap:square"
+       transform="matrix(2.2023,0,0,2.49741,750.385,244.601)" />
+    <text
+       font-size="5.27"
+       font-weight="400"
+       id="text139"
+       letter-spacing="0"
+       style="font-weight:400;font-size:5.26999998px;line-height:1.25;font-family:sans-serif;letter-spacing:0;word-spacing:0;stroke-width:0.99000001"
+       transform="matrix(2.1964,0,0,2.50412,750.385,244.601)"
+       word-spacing="0"
+       x="14.69"
+       y="-10.05">00</text>
+    <path
+       d="m 13.5,-16.5 h 8.99 v 8.99 H 13.5 Z"
+       id="path141"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:1.00999999;stroke-linecap:square"
+       transform="matrix(2.2023,0,0,2.49741,772.396,244.615)" />
+    <text
+       font-size="5.27"
+       font-weight="400"
+       id="text143"
+       letter-spacing="0"
+       style="font-weight:400;font-size:5.26999998px;line-height:1.25;font-family:sans-serif;letter-spacing:0;word-spacing:0;stroke-width:0.99000001"
+       transform="matrix(2.1964,0,0,2.50412,772.396,244.615)"
+       word-spacing="0"
+       x="14.69"
+       y="-10.05">00</text>
+    <path
+       d="m 13.5,-16.5 h 8.99 v 8.99 H 13.5 Z"
+       id="path145"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:1.00999999;stroke-linecap:square"
+       transform="matrix(2.2023,0,0,2.49741,794.396,244.615)" />
+    <text
+       font-size="5.27"
+       font-weight="400"
+       id="text147"
+       letter-spacing="0"
+       style="font-weight:400;font-size:5.26999998px;line-height:1.25;font-family:sans-serif;letter-spacing:0;word-spacing:0;stroke-width:0.99000001"
+       transform="matrix(2.1964,0,0,2.50412,794.396,244.615)"
+       word-spacing="0"
+       x="14.69"
+       y="-10.05">00</text>
+    <path
+       d="m 13.5,-16.5 h 8.99 v 8.99 H 13.5 Z"
+       id="path149"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:1.00999999;stroke-linecap:square"
+       transform="matrix(2.2023,0,0,2.49741,816.396,244.615)" />
+    <text
+       font-size="5.27"
+       font-weight="400"
+       id="text151"
+       letter-spacing="0"
+       style="font-weight:400;font-size:5.26999998px;line-height:1.25;font-family:sans-serif;letter-spacing:0;word-spacing:0;stroke-width:0.99000001"
+       transform="matrix(2.1964,0,0,2.50412,816.396,244.615)"
+       word-spacing="0"
+       x="14.69"
+       y="-10.05">00</text>
+    <path
+       d="m 13.5,-16.5 h 8.99 v 8.99 H 13.5 Z"
+       id="path153"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:1.00999999;stroke-linecap:square"
+       transform="matrix(2.2023,0,0,2.49741,838.373,244.601)" />
+    <text
+       font-size="5.27"
+       font-weight="400"
+       id="text155"
+       letter-spacing="0"
+       style="font-weight:400;font-size:5.26999998px;line-height:1.25;font-family:sans-serif;letter-spacing:0;word-spacing:0;stroke-width:0.99000001"
+       transform="matrix(2.1964,0,0,2.50412,838.373,244.601)"
+       word-spacing="0"
+       x="14.69"
+       y="-10.05">00</text>
+    <path
+       d="m 13.5,-16.5 h 8.99 v 8.99 H 13.5 Z"
+       id="path157"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:1.00999999;stroke-linecap:square"
+       transform="matrix(2.2023,0,0,2.49741,860.385,244.615)" />
+    <text
+       font-size="5.27"
+       font-weight="400"
+       id="text159"
+       letter-spacing="0"
+       style="font-weight:400;font-size:5.26999998px;line-height:1.25;font-family:sans-serif;letter-spacing:0;word-spacing:0;stroke-width:0.99000001"
+       transform="matrix(2.1964,0,0,2.50412,860.385,244.615)"
+       word-spacing="0"
+       x="14.69"
+       y="-10.05">00</text>
+    <path
+       d="m 13.5,-16.5 h 8.99 v 8.99 H 13.5 Z"
+       id="path161"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:1.00999999;stroke-linecap:square"
+       transform="matrix(2.2023,0,0,2.49741,882.385,244.615)" />
+    <text
+       font-size="5.27"
+       font-weight="400"
+       id="text163"
+       letter-spacing="0"
+       style="font-weight:400;font-size:5.26999998px;line-height:1.25;font-family:sans-serif;letter-spacing:0;word-spacing:0;stroke-width:0.99000001"
+       transform="matrix(2.1964,0,0,2.50412,882.385,244.615)"
+       word-spacing="0"
+       x="14.69"
+       y="-10.05">00</text>
+    <path
+       d="m 13.5,-16.5 h 8.99 v 8.99 H 13.5 Z"
+       id="path165"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:1.00999999;stroke-linecap:square"
+       transform="matrix(2.2023,0,0,2.49741,904.385,244.615)" />
+    <text
+       font-size="5.27"
+       font-weight="400"
+       id="text167"
+       letter-spacing="0"
+       style="font-weight:400;font-size:5.26999998px;line-height:1.25;font-family:sans-serif;letter-spacing:0;word-spacing:0;stroke-width:0.99000001"
+       transform="matrix(2.1964,0,0,2.50412,904.385,244.615)"
+       word-spacing="0"
+       x="14.69"
+       y="-10.05">00</text>
+    <path
+       d="m 13.5,-16.5 h 8.99 v 8.99 H 13.5 Z"
+       id="path169"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:1.00999999;stroke-linecap:square"
+       transform="matrix(2.2023,0,0,2.49741,926.385,244.601)" />
+    <text
+       font-size="5.27"
+       font-weight="400"
+       id="text171"
+       letter-spacing="0"
+       style="font-weight:400;font-size:5.26999998px;line-height:1.25;font-family:sans-serif;letter-spacing:0;word-spacing:0;stroke-width:0.99000001"
+       transform="matrix(2.1964,0,0,2.50412,926.385,244.601)"
+       word-spacing="0"
+       x="14.69"
+       y="-10.05">00</text>
+    <path
+       d="m 13.5,-16.5 h 8.99 v 8.99 H 13.5 Z"
+       id="path173"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:1.00999999;stroke-linecap:square"
+       transform="matrix(2.2023,0,0,2.49741,948.396,244.615)" />
+    <text
+       font-size="5.27"
+       font-weight="400"
+       id="text175"
+       letter-spacing="0"
+       style="font-weight:400;font-size:5.26999998px;line-height:1.25;font-family:sans-serif;letter-spacing:0;word-spacing:0;stroke-width:0.99000001"
+       transform="matrix(2.1964,0,0,2.50412,948.396,244.615)"
+       word-spacing="0"
+       x="14.69"
+       y="-10.05">00</text>
+    <path
+       d="m 13.5,-16.5 h 8.99 v 8.99 H 13.5 Z"
+       id="path177"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:1.00999999;stroke-linecap:square"
+       transform="matrix(2.2023,0,0,2.49741,970.396,244.615)" />
+    <text
+       font-size="5.27"
+       font-weight="400"
+       id="text179"
+       letter-spacing="0"
+       style="font-weight:400;font-size:5.26999998px;line-height:1.25;font-family:sans-serif;letter-spacing:0;word-spacing:0;stroke-width:0.99000001"
+       transform="matrix(2.1964,0,0,2.50412,970.396,244.615)"
+       word-spacing="0"
+       x="14.69"
+       y="-10.05">00</text>
+    <path
+       d="m 13.5,-16.5 h 8.99 v 8.99 H 13.5 Z"
+       id="path181"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:1.00999999;stroke-linecap:square"
+       transform="matrix(2.2023,0,0,2.49741,992.396,244.615)" />
+    <text
+       font-size="5.27"
+       font-weight="400"
+       id="text183"
+       letter-spacing="0"
+       style="font-weight:400;font-size:5.26999998px;line-height:1.25;font-family:sans-serif;letter-spacing:0;word-spacing:0;stroke-width:0.99000001"
+       transform="matrix(2.1964,0,0,2.50412,992.396,244.615)"
+       word-spacing="0"
+       x="14.69"
+       y="-10.05">00</text>
+  </g>
+  <path
+     d="M681.875 62v33"
+     fill="none"
+     id="path185"
+     marker-end="url(#d)"
+     stroke="#000"
+     stroke-width="1.74"
+     transform="translate(185.001 169.136)" />
+  <g
+     inkscape:label="plaintext-right"
+     id="plaintext-right">
+    <path
+       d="m 13.5,-16.5 h 8.99 v 8.99 H 13.5 Z"
+       id="path187"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:1.00999999;stroke-linecap:square"
+       transform="matrix(2.2023,0,0,2.49741,655.244,364.601)" />
+    <text
+       font-size="5.27"
+       font-weight="400"
+       id="text189"
+       letter-spacing="0"
+       style="font-weight:400;font-size:5.26999998px;line-height:1.25;font-family:sans-serif;letter-spacing:0;word-spacing:0;stroke-width:0.99000001"
+       transform="matrix(2.1964,0,0,2.50412,655.244,364.601)"
+       word-spacing="0"
+       x="14.69"
+       y="-10.05">00</text>
+    <path
+       d="m 13.5,-16.5 h 8.99 v 8.99 H 13.5 Z"
+       id="path191"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:1.00999999;stroke-linecap:square"
+       transform="matrix(2.2023,0,0,2.49741,677.256,364.615)" />
+    <text
+       font-size="5.27"
+       font-weight="400"
+       id="text193"
+       letter-spacing="0"
+       style="font-weight:400;font-size:5.26999998px;line-height:1.25;font-family:sans-serif;letter-spacing:0;word-spacing:0;stroke-width:0.99000001"
+       transform="matrix(2.1964,0,0,2.50412,677.256,364.615)"
+       word-spacing="0"
+       x="14.69"
+       y="-10.05">00</text>
+    <path
+       d="m 13.5,-16.5 h 8.99 v 8.99 H 13.5 Z"
+       id="path195"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:1.00999999;stroke-linecap:square"
+       transform="matrix(2.2023,0,0,2.49741,699.256,364.615)" />
+    <text
+       font-size="5.27"
+       font-weight="400"
+       id="text197"
+       letter-spacing="0"
+       style="font-weight:400;font-size:5.26999998px;line-height:1.25;font-family:sans-serif;letter-spacing:0;word-spacing:0;stroke-width:0.99000001"
+       transform="matrix(2.1964,0,0,2.50412,699.256,364.615)"
+       word-spacing="0"
+       x="14.69"
+       y="-10.05">00</text>
+    <path
+       d="m 13.5,-16.5 h 8.99 v 8.99 H 13.5 Z"
+       id="path199"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:1.00999999;stroke-linecap:square"
+       transform="matrix(2.2023,0,0,2.49741,721.256,364.615)" />
+    <text
+       font-size="5.27"
+       font-weight="400"
+       id="text201"
+       letter-spacing="0"
+       style="font-weight:400;font-size:5.26999998px;line-height:1.25;font-family:sans-serif;letter-spacing:0;word-spacing:0;stroke-width:0.99000001"
+       transform="matrix(2.1964,0,0,2.50412,721.256,364.615)"
+       word-spacing="0"
+       x="14.69"
+       y="-10.05">00</text>
+    <path
+       d="m 13.5,-16.5 h 8.99 v 8.99 H 13.5 Z"
+       id="path203"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:1.00999999;stroke-linecap:square"
+       transform="matrix(2.2023,0,0,2.49741,743.256,364.601)" />
+    <text
+       font-size="5.27"
+       font-weight="400"
+       id="text205"
+       letter-spacing="0"
+       style="font-weight:400;font-size:5.26999998px;line-height:1.25;font-family:sans-serif;letter-spacing:0;word-spacing:0;stroke-width:0.99000001"
+       transform="matrix(2.1964,0,0,2.50412,743.256,364.601)"
+       word-spacing="0"
+       x="14.69"
+       y="-10.05">00</text>
+    <path
+       d="m 13.5,-16.5 h 8.99 v 8.99 H 13.5 Z"
+       id="path207"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:1.00999999;stroke-linecap:square"
+       transform="matrix(2.2023,0,0,2.49741,765.267,364.615)" />
+    <text
+       font-size="5.27"
+       font-weight="400"
+       id="text209"
+       letter-spacing="0"
+       style="font-weight:400;font-size:5.26999998px;line-height:1.25;font-family:sans-serif;letter-spacing:0;word-spacing:0;stroke-width:0.99000001"
+       transform="matrix(2.1964,0,0,2.50412,765.267,364.615)"
+       word-spacing="0"
+       x="14.69"
+       y="-10.05">00</text>
+    <path
+       d="m 13.5,-16.5 h 8.99 v 8.99 H 13.5 Z"
+       id="path211"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:1.00999999;stroke-linecap:square"
+       transform="matrix(2.2023,0,0,2.49741,787.267,364.615)" />
+    <text
+       font-size="5.27"
+       font-weight="400"
+       id="text213"
+       letter-spacing="0"
+       style="font-weight:400;font-size:5.26999998px;line-height:1.25;font-family:sans-serif;letter-spacing:0;word-spacing:0;stroke-width:0.99000001"
+       transform="matrix(2.1964,0,0,2.50412,787.267,364.615)"
+       word-spacing="0"
+       x="14.69"
+       y="-10.05">00</text>
+    <path
+       d="m 13.5,-16.5 h 8.99 v 8.99 H 13.5 Z"
+       id="path215"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:1.00999999;stroke-linecap:square"
+       transform="matrix(2.2023,0,0,2.49741,809.267,364.615)" />
+    <text
+       font-size="5.27"
+       font-weight="400"
+       id="text217"
+       letter-spacing="0"
+       style="font-weight:400;font-size:5.26999998px;line-height:1.25;font-family:sans-serif;letter-spacing:0;word-spacing:0;stroke-width:0.99000001"
+       transform="matrix(2.1964,0,0,2.50412,809.267,364.615)"
+       word-spacing="0"
+       x="14.69"
+       y="-10.05">00</text>
+    <path
+       d="m 13.5,-16.5 h 8.99 v 8.99 H 13.5 Z"
+       id="path219"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:1.00999999;stroke-linecap:square"
+       transform="matrix(2.2023,0,0,2.49741,831.244,364.601)" />
+    <text
+       font-size="5.27"
+       font-weight="400"
+       id="text221"
+       letter-spacing="0"
+       style="font-weight:400;font-size:5.26999998px;line-height:1.25;font-family:sans-serif;letter-spacing:0;word-spacing:0;stroke-width:0.99000001"
+       transform="matrix(2.1964,0,0,2.50412,831.244,364.601)"
+       word-spacing="0"
+       x="14.69"
+       y="-10.05">00</text>
+    <path
+       d="m 13.5,-16.5 h 8.99 v 8.99 H 13.5 Z"
+       id="path223"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:1.00999999;stroke-linecap:square"
+       transform="matrix(2.2023,0,0,2.49741,853.256,364.615)" />
+    <text
+       font-size="5.27"
+       font-weight="400"
+       id="text225"
+       letter-spacing="0"
+       style="font-weight:400;font-size:5.26999998px;line-height:1.25;font-family:sans-serif;letter-spacing:0;word-spacing:0;stroke-width:0.99000001"
+       transform="matrix(2.1964,0,0,2.50412,853.256,364.615)"
+       word-spacing="0"
+       x="14.69"
+       y="-10.05">00</text>
+    <path
+       d="m 13.5,-16.5 h 8.99 v 8.99 H 13.5 Z"
+       id="path227"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:1.00999999;stroke-linecap:square"
+       transform="matrix(2.2023,0,0,2.49741,875.256,364.615)" />
+    <text
+       font-size="5.27"
+       font-weight="400"
+       id="text229"
+       letter-spacing="0"
+       style="font-weight:400;font-size:5.26999998px;line-height:1.25;font-family:sans-serif;letter-spacing:0;word-spacing:0;stroke-width:0.99000001"
+       transform="matrix(2.1964,0,0,2.50412,875.256,364.615)"
+       word-spacing="0"
+       x="14.69"
+       y="-10.05">00</text>
+    <path
+       d="m 13.5,-16.5 h 8.99 v 8.99 H 13.5 Z"
+       id="path231"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:1.00999999;stroke-linecap:square"
+       transform="matrix(2.2023,0,0,2.49741,897.256,364.615)" />
+    <text
+       font-size="5.27"
+       font-weight="400"
+       id="text233"
+       letter-spacing="0"
+       style="font-weight:400;font-size:5.26999998px;line-height:1.25;font-family:sans-serif;letter-spacing:0;word-spacing:0;stroke-width:0.99000001"
+       transform="matrix(2.1964,0,0,2.50412,897.256,364.615)"
+       word-spacing="0"
+       x="14.69"
+       y="-10.05">00</text>
+    <path
+       d="m 13.5,-16.5 h 8.99 v 8.99 H 13.5 Z"
+       id="path235"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:1.00999999;stroke-linecap:square"
+       transform="matrix(2.2023,0,0,2.49741,919.256,364.601)" />
+    <text
+       font-size="5.27"
+       font-weight="400"
+       id="text237"
+       letter-spacing="0"
+       style="font-weight:400;font-size:5.26999998px;line-height:1.25;font-family:sans-serif;letter-spacing:0;word-spacing:0;stroke-width:0.99000001"
+       transform="matrix(2.1964,0,0,2.50412,919.256,364.601)"
+       word-spacing="0"
+       x="14.69"
+       y="-10.05">00</text>
+    <path
+       d="m 13.5,-16.5 h 8.99 v 8.99 H 13.5 Z"
+       id="path239"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:1.00999999;stroke-linecap:square"
+       transform="matrix(2.2023,0,0,2.49741,941.267,364.615)" />
+    <text
+       font-size="5.27"
+       font-weight="400"
+       id="text241"
+       letter-spacing="0"
+       style="font-weight:400;font-size:5.26999998px;line-height:1.25;font-family:sans-serif;letter-spacing:0;word-spacing:0;stroke-width:0.99000001"
+       transform="matrix(2.1964,0,0,2.50412,941.267,364.615)"
+       word-spacing="0"
+       x="14.69"
+       y="-10.05">00</text>
+    <path
+       d="m 13.5,-16.5 h 8.99 v 8.99 H 13.5 Z"
+       id="path243"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:1.00999999;stroke-linecap:square"
+       transform="matrix(2.2023,0,0,2.49741,963.267,364.615)" />
+    <text
+       font-size="5.27"
+       font-weight="400"
+       id="text245"
+       letter-spacing="0"
+       style="font-weight:400;font-size:5.26999998px;line-height:1.25;font-family:sans-serif;letter-spacing:0;word-spacing:0;stroke-width:0.99000001"
+       transform="matrix(2.1964,0,0,2.50412,963.267,364.615)"
+       word-spacing="0"
+       x="14.69"
+       y="-10.05">00</text>
+    <path
+       d="m 13.5,-16.5 h 8.99 v 8.99 H 13.5 Z"
+       id="path247"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:1.00999999;stroke-linecap:square"
+       transform="matrix(2.2023,0,0,2.49741,985.267,364.615)" />
+    <text
+       font-size="5.27"
+       font-weight="400"
+       id="text249"
+       letter-spacing="0"
+       style="font-weight:400;font-size:5.26999998px;line-height:1.25;font-family:sans-serif;letter-spacing:0;word-spacing:0;stroke-width:0.99000001"
+       transform="matrix(2.1964,0,0,2.50412,985.267,364.615)"
+       word-spacing="0"
+       x="14.69"
+       y="-10.05">00</text>
+  </g>
+  <g
+     fill="none"
+     id="g257"
+     stroke="#000">
+    <path
+       d="M875.471 279.136c0 5.058-3.822 9.159-8.537 9.159-4.715 0-8.537-4.1-8.537-9.16 0-5.057 3.822-9.158 8.537-9.158 4.715 0 8.537 4.1 8.537 9.159z"
+       id="path251"
+       stroke-linecap="square"
+       stroke-width="1.47" />
+    <path
+       d="M858.471 279.136h17"
+       id="path253"
+       stroke-width="1.9" />
+    <path
+       d="M867.001 288.136v-18"
+       id="path255"
+       stroke-width="2.08" />
+  </g>
+  <path
+     d="M241.803-108.01h205.52v219.02h217.163"
+     fill="none"
+     id="path259"
+     marker-end="url(#e)"
+     stroke="#000"
+     stroke-width="1.89"
+     transform="translate(185.001 169.136)" />
+  <path
+     d="M240.937-122v46"
+     fill="none"
+     id="path261"
+     marker-end="url(#f)"
+     stroke="#000"
+     stroke-width="1.78"
+     transform="translate(185.001 169.136)" />
+  <text
+     font-family="DejaVu Sans"
+     font-size="17.68"
+     id="text263"
+     letter-spacing="0"
+     stroke-width="1.47"
+     style="line-height:0%;text-align:center"
+     text-anchor="middle"
+     transform="matrix(.96544 0 0 1.0358 185.001 169.136)"
+     word-spacing="0"
+     x="250.04"
+     y="-149.85">
+    Ciphertext
+  </text>
+  <g
+     inkscape:label="ciphertext-left"
+     id="ciphertext-left">
+    <path
+       d="m 13.5,-16.5 h 8.99 v 8.99 H 13.5 Z"
+       id="path265"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:1.00999999;stroke-linecap:square"
+       transform="matrix(2.2023,0,0,2.49741,222.373,61.601)" />
+    <text
+       font-size="5.27"
+       font-weight="400"
+       id="text267"
+       letter-spacing="0"
+       style="font-weight:400;font-size:5.26999998px;line-height:1.25;font-family:sans-serif;letter-spacing:0;word-spacing:0;stroke-width:0.99000001"
+       transform="matrix(2.1964,0,0,2.50412,222.373,61.601)"
+       word-spacing="0"
+       x="14.69"
+       y="-10.05">00</text>
+    <path
+       d="m 13.5,-16.5 h 8.99 v 8.99 H 13.5 Z"
+       id="path269"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:1.00999999;stroke-linecap:square"
+       transform="matrix(2.2023,0,0,2.49741,244.385,61.615)" />
+    <text
+       font-size="5.27"
+       font-weight="400"
+       id="text271"
+       letter-spacing="0"
+       style="font-weight:400;font-size:5.26999998px;line-height:1.25;font-family:sans-serif;letter-spacing:0;word-spacing:0;stroke-width:0.99000001"
+       transform="matrix(2.1964,0,0,2.50412,244.385,61.615)"
+       word-spacing="0"
+       x="14.69"
+       y="-10.05">00</text>
+    <path
+       d="m 13.5,-16.5 h 8.99 v 8.99 H 13.5 Z"
+       id="path273"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:1.00999999;stroke-linecap:square"
+       transform="matrix(2.2023,0,0,2.49741,266.385,61.615)" />
+    <text
+       font-size="5.27"
+       font-weight="400"
+       id="text275"
+       letter-spacing="0"
+       style="font-weight:400;font-size:5.26999998px;line-height:1.25;font-family:sans-serif;letter-spacing:0;word-spacing:0;stroke-width:0.99000001"
+       transform="matrix(2.1964,0,0,2.50412,266.385,61.615)"
+       word-spacing="0"
+       x="14.69"
+       y="-10.05">00</text>
+    <path
+       d="m 13.5,-16.5 h 8.99 v 8.99 H 13.5 Z"
+       id="path277"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:1.00999999;stroke-linecap:square"
+       transform="matrix(2.2023,0,0,2.49741,288.385,61.615)" />
+    <text
+       font-size="5.27"
+       font-weight="400"
+       id="text279"
+       letter-spacing="0"
+       style="font-weight:400;font-size:5.26999998px;line-height:1.25;font-family:sans-serif;letter-spacing:0;word-spacing:0;stroke-width:0.99000001"
+       transform="matrix(2.1964,0,0,2.50412,288.385,61.615)"
+       word-spacing="0"
+       x="14.69"
+       y="-10.05">00</text>
+    <path
+       d="m 13.5,-16.5 h 8.99 v 8.99 H 13.5 Z"
+       id="path281"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:1.00999999;stroke-linecap:square"
+       transform="matrix(2.2023,0,0,2.49741,310.385,61.601)" />
+    <text
+       font-size="5.27"
+       font-weight="400"
+       id="text283"
+       letter-spacing="0"
+       style="font-weight:400;font-size:5.26999998px;line-height:1.25;font-family:sans-serif;letter-spacing:0;word-spacing:0;stroke-width:0.99000001"
+       transform="matrix(2.1964,0,0,2.50412,310.385,61.601)"
+       word-spacing="0"
+       x="14.69"
+       y="-10.05">00</text>
+    <path
+       d="m 13.5,-16.5 h 8.99 v 8.99 H 13.5 Z"
+       id="path285"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:1.00999999;stroke-linecap:square"
+       transform="matrix(2.2023,0,0,2.49741,332.396,61.615)" />
+    <text
+       font-size="5.27"
+       font-weight="400"
+       id="text287"
+       letter-spacing="0"
+       style="font-weight:400;font-size:5.26999998px;line-height:1.25;font-family:sans-serif;letter-spacing:0;word-spacing:0;stroke-width:0.99000001"
+       transform="matrix(2.1964,0,0,2.50412,332.396,61.615)"
+       word-spacing="0"
+       x="14.69"
+       y="-10.05">00</text>
+    <path
+       d="m 13.5,-16.5 h 8.99 v 8.99 H 13.5 Z"
+       id="path289"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:1.00999999;stroke-linecap:square"
+       transform="matrix(2.2023,0,0,2.49741,354.396,61.615)" />
+    <text
+       font-size="5.27"
+       font-weight="400"
+       id="text291"
+       letter-spacing="0"
+       style="font-weight:400;font-size:5.26999998px;line-height:1.25;font-family:sans-serif;letter-spacing:0;word-spacing:0;stroke-width:0.99000001"
+       transform="matrix(2.1964,0,0,2.50412,354.396,61.615)"
+       word-spacing="0"
+       x="14.69"
+       y="-10.05">00</text>
+    <path
+       d="m 13.5,-16.5 h 8.99 v 8.99 H 13.5 Z"
+       id="path293"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:1.00999999;stroke-linecap:square"
+       transform="matrix(2.2023,0,0,2.49741,376.396,61.615)" />
+    <text
+       font-size="5.27"
+       font-weight="400"
+       id="text295"
+       letter-spacing="0"
+       style="font-weight:400;font-size:5.26999998px;line-height:1.25;font-family:sans-serif;letter-spacing:0;word-spacing:0;stroke-width:0.99000001"
+       transform="matrix(2.1964,0,0,2.50412,376.396,61.615)"
+       word-spacing="0"
+       x="14.69"
+       y="-10.05">00</text>
+    <path
+       d="m 13.5,-16.5 h 8.99 v 8.99 H 13.5 Z"
+       id="path297"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:1.00999999;stroke-linecap:square"
+       transform="matrix(2.2023,0,0,2.49741,398.373,61.601)" />
+    <text
+       font-size="5.27"
+       font-weight="400"
+       id="text299"
+       letter-spacing="0"
+       style="font-weight:400;font-size:5.26999998px;line-height:1.25;font-family:sans-serif;letter-spacing:0;word-spacing:0;stroke-width:0.99000001"
+       transform="matrix(2.1964,0,0,2.50412,398.373,61.601)"
+       word-spacing="0"
+       x="14.69"
+       y="-10.05">00</text>
+    <path
+       d="m 13.5,-16.5 h 8.99 v 8.99 H 13.5 Z"
+       id="path301"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:1.00999999;stroke-linecap:square"
+       transform="matrix(2.2023,0,0,2.49741,420.385,61.615)" />
+    <text
+       font-size="5.27"
+       font-weight="400"
+       id="text303"
+       letter-spacing="0"
+       style="font-weight:400;font-size:5.26999998px;line-height:1.25;font-family:sans-serif;letter-spacing:0;word-spacing:0;stroke-width:0.99000001"
+       transform="matrix(2.1964,0,0,2.50412,420.385,61.615)"
+       word-spacing="0"
+       x="14.69"
+       y="-10.05">00</text>
+    <path
+       d="m 13.5,-16.5 h 8.99 v 8.99 H 13.5 Z"
+       id="path305"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:1.00999999;stroke-linecap:square"
+       transform="matrix(2.2023,0,0,2.49741,442.385,61.615)" />
+    <text
+       font-size="5.27"
+       font-weight="400"
+       id="text307"
+       letter-spacing="0"
+       style="font-weight:400;font-size:5.26999998px;line-height:1.25;font-family:sans-serif;letter-spacing:0;word-spacing:0;stroke-width:0.99000001"
+       transform="matrix(2.1964,0,0,2.50412,442.385,61.615)"
+       word-spacing="0"
+       x="14.69"
+       y="-10.05">00</text>
+    <path
+       d="m 13.5,-16.5 h 8.99 v 8.99 H 13.5 Z"
+       id="path309"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:1.00999999;stroke-linecap:square"
+       transform="matrix(2.2023,0,0,2.49741,464.385,61.615)" />
+    <text
+       font-size="5.27"
+       font-weight="400"
+       id="text311"
+       letter-spacing="0"
+       style="font-weight:400;font-size:5.26999998px;line-height:1.25;font-family:sans-serif;letter-spacing:0;word-spacing:0;stroke-width:0.99000001"
+       transform="matrix(2.1964,0,0,2.50412,464.385,61.615)"
+       word-spacing="0"
+       x="14.69"
+       y="-10.05">00</text>
+    <path
+       d="m 13.5,-16.5 h 8.99 v 8.99 H 13.5 Z"
+       id="path313"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:1.00999999;stroke-linecap:square"
+       transform="matrix(2.2023,0,0,2.49741,486.385,61.601)" />
+    <text
+       font-size="5.27"
+       font-weight="400"
+       id="text315"
+       letter-spacing="0"
+       style="font-weight:400;font-size:5.26999998px;line-height:1.25;font-family:sans-serif;letter-spacing:0;word-spacing:0;stroke-width:0.99000001"
+       transform="matrix(2.1964,0,0,2.50412,486.385,61.601)"
+       word-spacing="0"
+       x="14.69"
+       y="-10.05">00</text>
+    <path
+       d="m 13.5,-16.5 h 8.99 v 8.99 H 13.5 Z"
+       id="path317"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:1.00999999;stroke-linecap:square"
+       transform="matrix(2.2023,0,0,2.49741,508.396,61.615)" />
+    <text
+       font-size="5.27"
+       font-weight="400"
+       id="text319"
+       letter-spacing="0"
+       style="font-weight:400;font-size:5.26999998px;line-height:1.25;font-family:sans-serif;letter-spacing:0;word-spacing:0;stroke-width:0.99000001"
+       transform="matrix(2.1964,0,0,2.50412,508.396,61.615)"
+       word-spacing="0"
+       x="14.69"
+       y="-10.05">00</text>
+    <path
+       d="m 13.5,-16.5 h 8.99 v 8.99 H 13.5 Z"
+       id="path321"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:1.00999999;stroke-linecap:square"
+       transform="matrix(2.2023,0,0,2.49741,530.396,61.615)" />
+    <text
+       font-size="5.27"
+       font-weight="400"
+       id="text323"
+       letter-spacing="0"
+       style="font-weight:400;font-size:5.26999998px;line-height:1.25;font-family:sans-serif;letter-spacing:0;word-spacing:0;stroke-width:0.99000001"
+       transform="matrix(2.1964,0,0,2.50412,530.396,61.615)"
+       word-spacing="0"
+       x="14.69"
+       y="-10.05">00</text>
+    <path
+       d="m 13.5,-16.5 h 8.99 v 8.99 H 13.5 Z"
+       id="path325"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:1.00999999;stroke-linecap:square"
+       transform="matrix(2.2023,0,0,2.49741,552.396,61.615)" />
+    <text
+       font-size="5.27"
+       font-weight="400"
+       id="text327"
+       letter-spacing="0"
+       style="font-weight:400;font-size:5.26999998px;line-height:1.25;font-family:sans-serif;letter-spacing:0;word-spacing:0;stroke-width:0.99000001"
+       transform="matrix(2.1964,0,0,2.50412,552.396,61.615)"
+       word-spacing="0"
+       x="14.69"
+       y="-10.05">00</text>
+  </g>
+  <g
+     fill="none"
+     id="g337"
+     stroke="#000">
+    <path
+       d="M240 123.15V148"
+       id="path329"
+       marker-end="url(#g)"
+       stroke-width="1.34"
+       transform="translate(185.001 169.136)" />
+    <path
+       d="M434.471 279.136c0 5.058-3.822 9.159-8.537 9.159-4.715 0-8.537-4.1-8.537-9.16 0-5.057 3.822-9.158 8.537-9.158 4.715 0 8.537 4.1 8.537 9.159z"
+       id="path331"
+       stroke-linecap="square"
+       stroke-width="1.47" />
+    <path
+       d="M417.471 279.136h17"
+       id="path333"
+       stroke-width="1.9" />
+    <path
+       d="M426.001 288.136v-18"
+       id="path335"
+       stroke-width="2.08" />
+  </g>
+  <g
+     inkscape:label="iv-left"
+     id="iv-left">
+    <path
+       d="m 13.5,-16.5 h 8.99 v 8.99 H 13.5 Z"
+       id="path339"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:1.00999999;stroke-linecap:square"
+       transform="matrix(2.2023,0,0,2.49741,-28.627,309.601)" />
+    <text
+       font-size="5.27"
+       font-weight="400"
+       id="text341"
+       letter-spacing="0"
+       style="font-weight:400;font-size:5.26999998px;line-height:1.25;font-family:sans-serif;letter-spacing:0;word-spacing:0;stroke-width:0.99000001"
+       transform="matrix(2.1964,0,0,2.50412,-28.627,309.601)"
+       word-spacing="0"
+       x="14.69"
+       y="-10.05">00</text>
+    <path
+       d="m 13.5,-16.5 h 8.99 v 8.99 H 13.5 Z"
+       id="path343"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:1.00999999;stroke-linecap:square"
+       transform="matrix(2.2023,0,0,2.49741,-6.615,309.615)" />
+    <text
+       font-size="5.27"
+       font-weight="400"
+       id="text345"
+       letter-spacing="0"
+       style="font-weight:400;font-size:5.26999998px;line-height:1.25;font-family:sans-serif;letter-spacing:0;word-spacing:0;stroke-width:0.99000001"
+       transform="matrix(2.1964,0,0,2.50412,-6.615,309.615)"
+       word-spacing="0"
+       x="14.69"
+       y="-10.05">00</text>
+    <path
+       d="m 13.5,-16.5 h 8.99 v 8.99 H 13.5 Z"
+       id="path347"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:1.00999999;stroke-linecap:square"
+       transform="matrix(2.2023,0,0,2.49741,15.385,309.615)" />
+    <text
+       font-size="5.27"
+       font-weight="400"
+       id="text349"
+       letter-spacing="0"
+       style="font-weight:400;font-size:5.26999998px;line-height:1.25;font-family:sans-serif;letter-spacing:0;word-spacing:0;stroke-width:0.99000001"
+       transform="matrix(2.1964,0,0,2.50412,15.385,309.615)"
+       word-spacing="0"
+       x="14.69"
+       y="-10.05">00</text>
+    <path
+       d="m 13.5,-16.5 h 8.99 v 8.99 H 13.5 Z"
+       id="path351"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:1.00999999;stroke-linecap:square"
+       transform="matrix(2.2023,0,0,2.49741,37.385,309.615)" />
+    <text
+       font-size="5.27"
+       font-weight="400"
+       id="text353"
+       letter-spacing="0"
+       style="font-weight:400;font-size:5.26999998px;line-height:1.25;font-family:sans-serif;letter-spacing:0;word-spacing:0;stroke-width:0.99000001"
+       transform="matrix(2.1964,0,0,2.50412,37.385,309.615)"
+       word-spacing="0"
+       x="14.69"
+       y="-10.05">00</text>
+    <path
+       d="m 13.5,-16.5 h 8.99 v 8.99 H 13.5 Z"
+       id="path355"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:1.00999999;stroke-linecap:square"
+       transform="matrix(2.2023,0,0,2.49741,59.385,309.601)" />
+    <text
+       font-size="5.27"
+       font-weight="400"
+       id="text357"
+       letter-spacing="0"
+       style="font-weight:400;font-size:5.26999998px;line-height:1.25;font-family:sans-serif;letter-spacing:0;word-spacing:0;stroke-width:0.99000001"
+       transform="matrix(2.1964,0,0,2.50412,59.385,309.601)"
+       word-spacing="0"
+       x="14.69"
+       y="-10.05">00</text>
+    <path
+       d="m 13.5,-16.5 h 8.99 v 8.99 H 13.5 Z"
+       id="path359"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:1.00999999;stroke-linecap:square"
+       transform="matrix(2.2023,0,0,2.49741,81.396,309.615)" />
+    <text
+       font-size="5.27"
+       font-weight="400"
+       id="text361"
+       letter-spacing="0"
+       style="font-weight:400;font-size:5.26999998px;line-height:1.25;font-family:sans-serif;letter-spacing:0;word-spacing:0;stroke-width:0.99000001"
+       transform="matrix(2.1964,0,0,2.50412,81.396,309.615)"
+       word-spacing="0"
+       x="14.69"
+       y="-10.05">00</text>
+    <path
+       d="m 13.5,-16.5 h 8.99 v 8.99 H 13.5 Z"
+       id="path363"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:1.00999999;stroke-linecap:square"
+       transform="matrix(2.2023,0,0,2.49741,103.396,309.615)" />
+    <text
+       font-size="5.27"
+       font-weight="400"
+       id="text365"
+       letter-spacing="0"
+       style="font-weight:400;font-size:5.26999998px;line-height:1.25;font-family:sans-serif;letter-spacing:0;word-spacing:0;stroke-width:0.99000001"
+       transform="matrix(2.1964,0,0,2.50412,103.396,309.615)"
+       word-spacing="0"
+       x="14.69"
+       y="-10.05">00</text>
+    <path
+       d="m 13.5,-16.5 h 8.99 v 8.99 H 13.5 Z"
+       id="path367"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:1.00999999;stroke-linecap:square"
+       transform="matrix(2.2023,0,0,2.49741,125.396,309.615)" />
+    <text
+       font-size="5.27"
+       font-weight="400"
+       id="text369"
+       letter-spacing="0"
+       style="font-weight:400;font-size:5.26999998px;line-height:1.25;font-family:sans-serif;letter-spacing:0;word-spacing:0;stroke-width:0.99000001"
+       transform="matrix(2.1964,0,0,2.50412,125.396,309.615)"
+       word-spacing="0"
+       x="14.69"
+       y="-10.05">00</text>
+    <path
+       d="m 13.5,-16.5 h 8.99 v 8.99 H 13.5 Z"
+       id="path371"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:1.00999999;stroke-linecap:square"
+       transform="matrix(2.2023,0,0,2.49741,147.373,309.601)" />
+    <text
+       font-size="5.27"
+       font-weight="400"
+       id="text373"
+       letter-spacing="0"
+       style="font-weight:400;font-size:5.26999998px;line-height:1.25;font-family:sans-serif;letter-spacing:0;word-spacing:0;stroke-width:0.99000001"
+       transform="matrix(2.1964,0,0,2.50412,147.373,309.601)"
+       word-spacing="0"
+       x="14.69"
+       y="-10.05">00</text>
+    <path
+       d="m 13.5,-16.5 h 8.99 v 8.99 H 13.5 Z"
+       id="path375"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:1.00999999;stroke-linecap:square"
+       transform="matrix(2.2023,0,0,2.49741,169.385,309.615)" />
+    <text
+       font-size="5.27"
+       font-weight="400"
+       id="text377"
+       letter-spacing="0"
+       style="font-weight:400;font-size:5.26999998px;line-height:1.25;font-family:sans-serif;letter-spacing:0;word-spacing:0;stroke-width:0.99000001"
+       transform="matrix(2.1964,0,0,2.50412,169.385,309.615)"
+       word-spacing="0"
+       x="14.69"
+       y="-10.05">00</text>
+    <path
+       d="m 13.5,-16.5 h 8.99 v 8.99 H 13.5 Z"
+       id="path379"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:1.00999999;stroke-linecap:square"
+       transform="matrix(2.2023,0,0,2.49741,191.385,309.615)" />
+    <text
+       font-size="5.27"
+       font-weight="400"
+       id="text381"
+       letter-spacing="0"
+       style="font-weight:400;font-size:5.26999998px;line-height:1.25;font-family:sans-serif;letter-spacing:0;word-spacing:0;stroke-width:0.99000001"
+       transform="matrix(2.1964,0,0,2.50412,191.385,309.615)"
+       word-spacing="0"
+       x="14.69"
+       y="-10.05">00</text>
+    <path
+       d="m 13.5,-16.5 h 8.99 v 8.99 H 13.5 Z"
+       id="path383"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:1.00999999;stroke-linecap:square"
+       transform="matrix(2.2023,0,0,2.49741,213.385,309.615)" />
+    <text
+       font-size="5.27"
+       font-weight="400"
+       id="text385"
+       letter-spacing="0"
+       style="font-weight:400;font-size:5.26999998px;line-height:1.25;font-family:sans-serif;letter-spacing:0;word-spacing:0;stroke-width:0.99000001"
+       transform="matrix(2.1964,0,0,2.50412,213.385,309.615)"
+       word-spacing="0"
+       x="14.69"
+       y="-10.05">00</text>
+    <path
+       d="m 13.5,-16.5 h 8.99 v 8.99 H 13.5 Z"
+       id="path387"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:1.00999999;stroke-linecap:square"
+       transform="matrix(2.2023,0,0,2.49741,235.385,309.601)" />
+    <text
+       font-size="5.27"
+       font-weight="400"
+       id="text389"
+       letter-spacing="0"
+       style="font-weight:400;font-size:5.26999998px;line-height:1.25;font-family:sans-serif;letter-spacing:0;word-spacing:0;stroke-width:0.99000001"
+       transform="matrix(2.1964,0,0,2.50412,235.385,309.601)"
+       word-spacing="0"
+       x="14.69"
+       y="-10.05">00</text>
+    <path
+       d="m 13.5,-16.5 h 8.99 v 8.99 H 13.5 Z"
+       id="path391"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:1.00999999;stroke-linecap:square"
+       transform="matrix(2.2023,0,0,2.49741,257.396,309.615)" />
+    <text
+       font-size="5.27"
+       font-weight="400"
+       id="text393"
+       letter-spacing="0"
+       style="font-weight:400;font-size:5.26999998px;line-height:1.25;font-family:sans-serif;letter-spacing:0;word-spacing:0;stroke-width:0.99000001"
+       transform="matrix(2.1964,0,0,2.50412,257.396,309.615)"
+       word-spacing="0"
+       x="14.69"
+       y="-10.05">00</text>
+    <path
+       d="m 13.5,-16.5 h 8.99 v 8.99 H 13.5 Z"
+       id="path395"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:1.00999999;stroke-linecap:square"
+       transform="matrix(2.2023,0,0,2.49741,279.396,309.615)" />
+    <text
+       font-size="5.27"
+       font-weight="400"
+       id="text397"
+       letter-spacing="0"
+       style="font-weight:400;font-size:5.26999998px;line-height:1.25;font-family:sans-serif;letter-spacing:0;word-spacing:0;stroke-width:0.99000001"
+       transform="matrix(2.1964,0,0,2.50412,279.396,309.615)"
+       word-spacing="0"
+       x="14.69"
+       y="-10.05">00</text>
+    <path
+       d="m 13.5,-16.5 h 8.99 v 8.99 H 13.5 Z"
+       id="path399"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:1.00999999;stroke-linecap:square"
+       transform="matrix(2.2023,0,0,2.49741,301.396,309.615)" />
+    <text
+       font-size="5.27"
+       font-weight="400"
+       id="text401"
+       letter-spacing="0"
+       style="font-weight:400;font-size:5.26999998px;line-height:1.25;font-family:sans-serif;letter-spacing:0;word-spacing:0;stroke-width:0.99000001"
+       transform="matrix(2.1964,0,0,2.50412,301.396,309.615)"
+       word-spacing="0"
+       x="14.69"
+       y="-10.05">00</text>
+  </g>
+  <path
+     d="M170 110.06h55"
+     fill="none"
+     id="path403"
+     marker-end="url(#e)"
+     stroke="#000"
+     stroke-width="1.78"
+     transform="translate(185.001 169.136)" />
+  <text
+     font-family="DejaVu Sans"
+     font-size="17.68"
+     id="text405"
+     letter-spacing="0"
+     stroke-width="1.47"
+     style="line-height:0%"
+     transform="matrix(.96544 0 0 1.0358 185.001 169.136)"
+     word-spacing="0"
+     x="-98.08"
+     y="86.27">
+    Initialization Vector (IV)
+  </text>
+  <g
+     inkscape:label="plaintext-left"
+     id="plaintext-left">
+    <path
+       d="m 13.5,-16.5 h 8.99 v 8.99 H 13.5 Z"
+       id="path407"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:1.00999999;stroke-linecap:square"
+       transform="matrix(2.2023,0,0,2.49741,222.373,364.318)" />
+    <text
+       font-size="5.27"
+       font-weight="400"
+       id="text409"
+       letter-spacing="0"
+       style="font-weight:400;font-size:5.26999998px;line-height:1.25;font-family:sans-serif;letter-spacing:0;word-spacing:0;stroke-width:0.99000001"
+       transform="matrix(2.1964,0,0,2.50412,222.373,364.318)"
+       word-spacing="0"
+       x="14.69"
+       y="-10.05">00</text>
+    <path
+       d="m 13.5,-16.5 h 8.99 v 8.99 H 13.5 Z"
+       id="path411"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:1.00999999;stroke-linecap:square"
+       transform="matrix(2.2023,0,0,2.49741,244.385,364.33)" />
+    <text
+       font-size="5.27"
+       font-weight="400"
+       id="text413"
+       letter-spacing="0"
+       style="font-weight:400;font-size:5.26999998px;line-height:1.25;font-family:sans-serif;letter-spacing:0;word-spacing:0;stroke-width:0.99000001"
+       transform="matrix(2.1964,0,0,2.50412,244.385,364.33)"
+       word-spacing="0"
+       x="14.69"
+       y="-10.05">00</text>
+    <path
+       d="m 13.5,-16.5 h 8.99 v 8.99 H 13.5 Z"
+       id="path415"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:1.00999999;stroke-linecap:square"
+       transform="matrix(2.2023,0,0,2.49741,266.385,364.33)" />
+    <text
+       font-size="5.27"
+       font-weight="400"
+       id="text417"
+       letter-spacing="0"
+       style="font-weight:400;font-size:5.26999998px;line-height:1.25;font-family:sans-serif;letter-spacing:0;word-spacing:0;stroke-width:0.99000001"
+       transform="matrix(2.1964,0,0,2.50412,266.385,364.33)"
+       word-spacing="0"
+       x="14.69"
+       y="-10.05">00</text>
+    <path
+       d="m 13.5,-16.5 h 8.99 v 8.99 H 13.5 Z"
+       id="path419"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:1.00999999;stroke-linecap:square"
+       transform="matrix(2.2023,0,0,2.49741,288.385,364.33)" />
+    <text
+       font-size="5.27"
+       font-weight="400"
+       id="text421"
+       letter-spacing="0"
+       style="font-weight:400;font-size:5.26999998px;line-height:1.25;font-family:sans-serif;letter-spacing:0;word-spacing:0;stroke-width:0.99000001"
+       transform="matrix(2.1964,0,0,2.50412,288.385,364.33)"
+       word-spacing="0"
+       x="14.69"
+       y="-10.05">00</text>
+    <path
+       d="m 13.5,-16.5 h 8.99 v 8.99 H 13.5 Z"
+       id="path423"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:1.00999999;stroke-linecap:square"
+       transform="matrix(2.2023,0,0,2.49741,310.385,364.318)" />
+    <text
+       font-size="5.27"
+       font-weight="400"
+       id="text425"
+       letter-spacing="0"
+       style="font-weight:400;font-size:5.26999998px;line-height:1.25;font-family:sans-serif;letter-spacing:0;word-spacing:0;stroke-width:0.99000001"
+       transform="matrix(2.1964,0,0,2.50412,310.385,364.318)"
+       word-spacing="0"
+       x="14.69"
+       y="-10.05">00</text>
+    <path
+       d="m 13.5,-16.5 h 8.99 v 8.99 H 13.5 Z"
+       id="path427"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:1.00999999;stroke-linecap:square"
+       transform="matrix(2.2023,0,0,2.49741,332.396,364.33)" />
+    <text
+       font-size="5.27"
+       font-weight="400"
+       id="text429"
+       letter-spacing="0"
+       style="font-weight:400;font-size:5.26999998px;line-height:1.25;font-family:sans-serif;letter-spacing:0;word-spacing:0;stroke-width:0.99000001"
+       transform="matrix(2.1964,0,0,2.50412,332.396,364.33)"
+       word-spacing="0"
+       x="14.69"
+       y="-10.05">00</text>
+    <path
+       d="m 13.5,-16.5 h 8.99 v 8.99 H 13.5 Z"
+       id="path431"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:1.00999999;stroke-linecap:square"
+       transform="matrix(2.2023,0,0,2.49741,354.396,364.33)" />
+    <text
+       font-size="5.27"
+       font-weight="400"
+       id="text433"
+       letter-spacing="0"
+       style="font-weight:400;font-size:5.26999998px;line-height:1.25;font-family:sans-serif;letter-spacing:0;word-spacing:0;stroke-width:0.99000001"
+       transform="matrix(2.1964,0,0,2.50412,354.396,364.33)"
+       word-spacing="0"
+       x="14.69"
+       y="-10.05">00</text>
+    <path
+       d="m 13.5,-16.5 h 8.99 v 8.99 H 13.5 Z"
+       id="path435"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:1.00999999;stroke-linecap:square"
+       transform="matrix(2.2023,0,0,2.49741,376.396,364.33)" />
+    <text
+       font-size="5.27"
+       font-weight="400"
+       id="text437"
+       letter-spacing="0"
+       style="font-weight:400;font-size:5.26999998px;line-height:1.25;font-family:sans-serif;letter-spacing:0;word-spacing:0;stroke-width:0.99000001"
+       transform="matrix(2.1964,0,0,2.50412,376.396,364.33)"
+       word-spacing="0"
+       x="14.69"
+       y="-10.05">00</text>
+    <path
+       d="m 13.5,-16.5 h 8.99 v 8.99 H 13.5 Z"
+       id="path439"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:1.00999999;stroke-linecap:square"
+       transform="matrix(2.2023,0,0,2.49741,398.373,364.318)" />
+    <text
+       font-size="5.27"
+       font-weight="400"
+       id="text441"
+       letter-spacing="0"
+       style="font-weight:400;font-size:5.26999998px;line-height:1.25;font-family:sans-serif;letter-spacing:0;word-spacing:0;stroke-width:0.99000001"
+       transform="matrix(2.1964,0,0,2.50412,398.373,364.318)"
+       word-spacing="0"
+       x="14.69"
+       y="-10.05">00</text>
+    <path
+       d="m 13.5,-16.5 h 8.99 v 8.99 H 13.5 Z"
+       id="path443"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:1.00999999;stroke-linecap:square"
+       transform="matrix(2.2023,0,0,2.49741,420.385,364.33)" />
+    <text
+       font-size="5.27"
+       font-weight="400"
+       id="text445"
+       letter-spacing="0"
+       style="font-weight:400;font-size:5.26999998px;line-height:1.25;font-family:sans-serif;letter-spacing:0;word-spacing:0;stroke-width:0.99000001"
+       transform="matrix(2.1964,0,0,2.50412,420.385,364.33)"
+       word-spacing="0"
+       x="14.69"
+       y="-10.05">00</text>
+    <path
+       d="m 13.5,-16.5 h 8.99 v 8.99 H 13.5 Z"
+       id="path447"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:1.00999999;stroke-linecap:square"
+       transform="matrix(2.2023,0,0,2.49741,442.385,364.33)" />
+    <text
+       font-size="5.27"
+       font-weight="400"
+       id="text449"
+       letter-spacing="0"
+       style="font-weight:400;font-size:5.26999998px;line-height:1.25;font-family:sans-serif;letter-spacing:0;word-spacing:0;stroke-width:0.99000001"
+       transform="matrix(2.1964,0,0,2.50412,442.385,364.33)"
+       word-spacing="0"
+       x="14.69"
+       y="-10.05">00</text>
+    <path
+       d="m 13.5,-16.5 h 8.99 v 8.99 H 13.5 Z"
+       id="path451"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:1.00999999;stroke-linecap:square"
+       transform="matrix(2.2023,0,0,2.49741,464.385,364.33)" />
+    <text
+       font-size="5.27"
+       font-weight="400"
+       id="text453"
+       letter-spacing="0"
+       style="font-weight:400;font-size:5.26999998px;line-height:1.25;font-family:sans-serif;letter-spacing:0;word-spacing:0;stroke-width:0.99000001"
+       transform="matrix(2.1964,0,0,2.50412,464.385,364.33)"
+       word-spacing="0"
+       x="14.69"
+       y="-10.05">00</text>
+    <path
+       d="m 13.5,-16.5 h 8.99 v 8.99 H 13.5 Z"
+       id="path455"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:1.00999999;stroke-linecap:square"
+       transform="matrix(2.2023,0,0,2.49741,486.385,364.318)" />
+    <text
+       font-size="5.27"
+       font-weight="400"
+       id="text457"
+       letter-spacing="0"
+       style="font-weight:400;font-size:5.26999998px;line-height:1.25;font-family:sans-serif;letter-spacing:0;word-spacing:0;stroke-width:0.99000001"
+       transform="matrix(2.1964,0,0,2.50412,486.385,364.318)"
+       word-spacing="0"
+       x="14.69"
+       y="-10.05">00</text>
+    <path
+       d="m 13.5,-16.5 h 8.99 v 8.99 H 13.5 Z"
+       id="path459"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:1.00999999;stroke-linecap:square"
+       transform="matrix(2.2023,0,0,2.49741,508.396,364.33)" />
+    <text
+       font-size="5.27"
+       font-weight="400"
+       id="text461"
+       letter-spacing="0"
+       style="font-weight:400;font-size:5.26999998px;line-height:1.25;font-family:sans-serif;letter-spacing:0;word-spacing:0;stroke-width:0.99000001"
+       transform="matrix(2.1964,0,0,2.50412,508.396,364.33)"
+       word-spacing="0"
+       x="14.69"
+       y="-10.05">00</text>
+    <path
+       d="m 13.5,-16.5 h 8.99 v 8.99 H 13.5 Z"
+       id="path463"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:1.00999999;stroke-linecap:square"
+       transform="matrix(2.2023,0,0,2.49741,530.396,364.33)" />
+    <text
+       font-size="5.27"
+       font-weight="400"
+       id="text465"
+       letter-spacing="0"
+       style="font-weight:400;font-size:5.26999998px;line-height:1.25;font-family:sans-serif;letter-spacing:0;word-spacing:0;stroke-width:0.99000001"
+       transform="matrix(2.1964,0,0,2.50412,530.396,364.33)"
+       word-spacing="0"
+       x="14.69"
+       y="-10.05">00</text>
+    <path
+       d="m 13.5,-16.5 h 8.99 v 8.99 H 13.5 Z"
+       id="path467"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:1.00999999;stroke-linecap:square"
+       transform="matrix(2.2023,0,0,2.49741,552.396,364.33)" />
+    <text
+       font-size="5.27"
+       font-weight="400"
+       id="text469"
+       letter-spacing="0"
+       style="font-weight:400;font-size:5.26999998px;line-height:1.25;font-family:sans-serif;letter-spacing:0;word-spacing:0;stroke-width:0.99000001"
+       transform="matrix(2.1964,0,0,2.50412,552.396,364.33)"
+       word-spacing="0"
+       x="14.69"
+       y="-10.05">00</text>
+  </g>
+  <text
+     font-size="17.68"
+     id="text471"
+     letter-spacing="0"
+     style="font-size:17.6800251px;line-height:0%;font-family:'DejaVu Sans';letter-spacing:0;word-spacing:0;stroke-width:1.47000206"
+     transform="scale(0.96543867,1.0357986)"
+     word-spacing="0"
+     x="393.93985"
+     y="355.2807">Plaintext</text>
+  <path
+     d="M241.437-11V9"
+     fill="none"
+     id="path473"
+     marker-end="url(#h)"
+     stroke="#000"
+     stroke-width="1.7"
+     transform="translate(185.001 169.136)" />
+  <g
+     id="g483"
+     style="stroke-width:1.47000003">
+    <text
+       font-size="17.68"
+       id="text479"
+       letter-spacing="0"
+       style="font-size:17.68000031px;line-height:0%;font-family:'DejaVu Sans';text-align:center;letter-spacing:0;word-spacing:0;text-anchor:middle"
+       transform="matrix(0.96544,0,0,1.0358,185.001,169.136)"
+       word-spacing="0"
+       x="248.17999"
+       y="-46.349998">
+      <tspan
+         id="tspan475"
+         style="line-height:1.25"
+         x="248.17999"
+         y="-46.349998">block cipher</tspan>
+      <tspan
+         id="tspan477"
+         style="line-height:1.25"
+         x="248.17999"
+         y="-24.24">decryption</tspan>
+    </text>
+    <path
+       d="m 355.651,100.046 h 139.44 v 54.95 h -139.44 z"
+       id="path481"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-linecap:square" />
+  </g>
+  <text
+     font-family="DejaVu Sans"
+     font-size="17.18"
+     id="text485"
+     letter-spacing="0"
+     stroke-width="1.43"
+     style="line-height:0%"
+     transform="matrix(.93795 0 0 1.06615 185.001 169.136)"
+     word-spacing="0"
+     x="-10.34"
+     y="-56.49">
+    Key
+  </text>
+  <g
+     inkscape:label="key-left"
+     id="key-left">
+    <path
+       d="m 13.5,-16.5 h 8.99 v 8.99 H 13.5 Z"
+       id="path487"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:1.00999999;stroke-linecap:square"
+       transform="matrix(2.2023,0,0,2.49741,-28.627,158.601)" />
+    <text
+       font-size="5.27"
+       font-weight="400"
+       id="text489"
+       letter-spacing="0"
+       style="font-weight:400;font-size:5.26999998px;line-height:1.25;font-family:sans-serif;letter-spacing:0;word-spacing:0;stroke-width:0.99000001"
+       transform="matrix(2.1964,0,0,2.50412,-28.627,158.601)"
+       word-spacing="0"
+       x="14.69"
+       y="-10.05">00</text>
+    <path
+       d="m 13.5,-16.5 h 8.99 v 8.99 H 13.5 Z"
+       id="path491"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:1.00999999;stroke-linecap:square"
+       transform="matrix(2.2023,0,0,2.49741,-6.615,158.615)" />
+    <text
+       font-size="5.27"
+       font-weight="400"
+       id="text493"
+       letter-spacing="0"
+       style="font-weight:400;font-size:5.26999998px;line-height:1.25;font-family:sans-serif;letter-spacing:0;word-spacing:0;stroke-width:0.99000001"
+       transform="matrix(2.1964,0,0,2.50412,-6.615,158.615)"
+       word-spacing="0"
+       x="14.69"
+       y="-10.05">00</text>
+    <path
+       d="m 13.5,-16.5 h 8.99 v 8.99 H 13.5 Z"
+       id="path495"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:1.00999999;stroke-linecap:square"
+       transform="matrix(2.2023,0,0,2.49741,15.385,158.615)" />
+    <text
+       font-size="5.27"
+       font-weight="400"
+       id="text497"
+       letter-spacing="0"
+       style="font-weight:400;font-size:5.26999998px;line-height:1.25;font-family:sans-serif;letter-spacing:0;word-spacing:0;stroke-width:0.99000001"
+       transform="matrix(2.1964,0,0,2.50412,15.385,158.615)"
+       word-spacing="0"
+       x="14.69"
+       y="-10.05">00</text>
+    <path
+       d="m 13.5,-16.5 h 8.99 v 8.99 H 13.5 Z"
+       id="path499"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:1.00999999;stroke-linecap:square"
+       transform="matrix(2.2023,0,0,2.49741,37.385,158.615)" />
+    <text
+       font-size="5.27"
+       font-weight="400"
+       id="text501"
+       letter-spacing="0"
+       style="font-weight:400;font-size:5.26999998px;line-height:1.25;font-family:sans-serif;letter-spacing:0;word-spacing:0;stroke-width:0.99000001"
+       transform="matrix(2.1964,0,0,2.50412,37.385,158.615)"
+       word-spacing="0"
+       x="14.69"
+       y="-10.05">00</text>
+    <path
+       d="m 13.5,-16.5 h 8.99 v 8.99 H 13.5 Z"
+       id="path503"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:1.00999999;stroke-linecap:square"
+       transform="matrix(2.2023,0,0,2.49741,59.385,158.601)" />
+    <text
+       font-size="5.27"
+       font-weight="400"
+       id="text505"
+       letter-spacing="0"
+       style="font-weight:400;font-size:5.26999998px;line-height:1.25;font-family:sans-serif;letter-spacing:0;word-spacing:0;stroke-width:0.99000001"
+       transform="matrix(2.1964,0,0,2.50412,59.385,158.601)"
+       word-spacing="0"
+       x="14.69"
+       y="-10.05">00</text>
+    <path
+       d="m 13.5,-16.5 h 8.99 v 8.99 H 13.5 Z"
+       id="path507"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:1.00999999;stroke-linecap:square"
+       transform="matrix(2.2023,0,0,2.49741,81.396,158.615)" />
+    <text
+       font-size="5.27"
+       font-weight="400"
+       id="text509"
+       letter-spacing="0"
+       style="font-weight:400;font-size:5.26999998px;line-height:1.25;font-family:sans-serif;letter-spacing:0;word-spacing:0;stroke-width:0.99000001"
+       transform="matrix(2.1964,0,0,2.50412,81.396,158.615)"
+       word-spacing="0"
+       x="14.69"
+       y="-10.05">00</text>
+    <path
+       d="m 13.5,-16.5 h 8.99 v 8.99 H 13.5 Z"
+       id="path511"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:1.00999999;stroke-linecap:square"
+       transform="matrix(2.2023,0,0,2.49741,103.396,158.615)" />
+    <text
+       font-size="5.27"
+       font-weight="400"
+       id="text513"
+       letter-spacing="0"
+       style="font-weight:400;font-size:5.26999998px;line-height:1.25;font-family:sans-serif;letter-spacing:0;word-spacing:0;stroke-width:0.99000001"
+       transform="matrix(2.1964,0,0,2.50412,103.396,158.615)"
+       word-spacing="0"
+       x="14.69"
+       y="-10.05">00</text>
+    <path
+       d="m 13.5,-16.5 h 8.99 v 8.99 H 13.5 Z"
+       id="path515"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:1.00999999;stroke-linecap:square"
+       transform="matrix(2.2023,0,0,2.49741,125.396,158.615)" />
+    <text
+       font-size="5.27"
+       font-weight="400"
+       id="text517"
+       letter-spacing="0"
+       style="font-weight:400;font-size:5.26999998px;line-height:1.25;font-family:sans-serif;letter-spacing:0;word-spacing:0;stroke-width:0.99000001"
+       transform="matrix(2.1964,0,0,2.50412,125.396,158.615)"
+       word-spacing="0"
+       x="14.69"
+       y="-10.05">00</text>
+    <path
+       d="m 13.5,-16.5 h 8.99 v 8.99 H 13.5 Z"
+       id="path519"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:1.00999999;stroke-linecap:square"
+       transform="matrix(2.2023,0,0,2.49741,147.373,158.601)" />
+    <text
+       font-size="5.27"
+       font-weight="400"
+       id="text521"
+       letter-spacing="0"
+       style="font-weight:400;font-size:5.26999998px;line-height:1.25;font-family:sans-serif;letter-spacing:0;word-spacing:0;stroke-width:0.99000001"
+       transform="matrix(2.1964,0,0,2.50412,147.373,158.601)"
+       word-spacing="0"
+       x="14.69"
+       y="-10.05">00</text>
+    <path
+       d="m 13.5,-16.5 h 8.99 v 8.99 H 13.5 Z"
+       id="path523"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:1.00999999;stroke-linecap:square"
+       transform="matrix(2.2023,0,0,2.49741,169.385,158.615)" />
+    <text
+       font-size="5.27"
+       font-weight="400"
+       id="text525"
+       letter-spacing="0"
+       style="font-weight:400;font-size:5.26999998px;line-height:1.25;font-family:sans-serif;letter-spacing:0;word-spacing:0;stroke-width:0.99000001"
+       transform="matrix(2.1964,0,0,2.50412,169.385,158.615)"
+       word-spacing="0"
+       x="14.69"
+       y="-10.05">00</text>
+    <path
+       d="m 13.5,-16.5 h 8.99 v 8.99 H 13.5 Z"
+       id="path527"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:1.00999999;stroke-linecap:square"
+       transform="matrix(2.2023,0,0,2.49741,191.385,158.615)" />
+    <text
+       font-size="5.27"
+       font-weight="400"
+       id="text529"
+       letter-spacing="0"
+       style="font-weight:400;font-size:5.26999998px;line-height:1.25;font-family:sans-serif;letter-spacing:0;word-spacing:0;stroke-width:0.99000001"
+       transform="matrix(2.1964,0,0,2.50412,191.385,158.615)"
+       word-spacing="0"
+       x="14.69"
+       y="-10.05">00</text>
+    <path
+       d="m 13.5,-16.5 h 8.99 v 8.99 H 13.5 Z"
+       id="path531"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:1.00999999;stroke-linecap:square"
+       transform="matrix(2.2023,0,0,2.49741,213.385,158.615)" />
+    <text
+       font-size="5.27"
+       font-weight="400"
+       id="text533"
+       letter-spacing="0"
+       style="font-weight:400;font-size:5.26999998px;line-height:1.25;font-family:sans-serif;letter-spacing:0;word-spacing:0;stroke-width:0.99000001"
+       transform="matrix(2.1964,0,0,2.50412,213.385,158.615)"
+       word-spacing="0"
+       x="14.69"
+       y="-10.05">00</text>
+    <path
+       d="m 13.5,-16.5 h 8.99 v 8.99 H 13.5 Z"
+       id="path535"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:1.00999999;stroke-linecap:square"
+       transform="matrix(2.2023,0,0,2.49741,235.385,158.601)" />
+    <text
+       font-size="5.27"
+       font-weight="400"
+       id="text537"
+       letter-spacing="0"
+       style="font-weight:400;font-size:5.26999998px;line-height:1.25;font-family:sans-serif;letter-spacing:0;word-spacing:0;stroke-width:0.99000001"
+       transform="matrix(2.1964,0,0,2.50412,235.385,158.601)"
+       word-spacing="0"
+       x="14.69"
+       y="-10.05">00</text>
+    <path
+       d="m 13.5,-16.5 h 8.99 v 8.99 H 13.5 Z"
+       id="path539"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:1.00999999;stroke-linecap:square"
+       transform="matrix(2.2023,0,0,2.49741,257.396,158.615)" />
+    <text
+       font-size="5.27"
+       font-weight="400"
+       id="text541"
+       letter-spacing="0"
+       style="font-weight:400;font-size:5.26999998px;line-height:1.25;font-family:sans-serif;letter-spacing:0;word-spacing:0;stroke-width:0.99000001"
+       transform="matrix(2.1964,0,0,2.50412,257.396,158.615)"
+       word-spacing="0"
+       x="14.69"
+       y="-10.05">00</text>
+    <path
+       d="m 13.5,-16.5 h 8.99 v 8.99 H 13.5 Z"
+       id="path543"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:1.00999999;stroke-linecap:square"
+       transform="matrix(2.2023,0,0,2.49741,279.396,158.615)" />
+    <text
+       font-size="5.27"
+       font-weight="400"
+       id="text545"
+       letter-spacing="0"
+       style="font-weight:400;font-size:5.26999998px;line-height:1.25;font-family:sans-serif;letter-spacing:0;word-spacing:0;stroke-width:0.99000001"
+       transform="matrix(2.1964,0,0,2.50412,279.396,158.615)"
+       word-spacing="0"
+       x="14.69"
+       y="-10.05">00</text>
+    <path
+       d="m 13.5,-16.5 h 8.99 v 8.99 H 13.5 Z"
+       id="path547"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:1.00999999;stroke-linecap:square"
+       transform="matrix(2.2023,0,0,2.49741,301.396,158.615)" />
+    <text
+       font-size="5.27"
+       font-weight="400"
+       id="text549"
+       letter-spacing="0"
+       style="font-weight:400;font-size:5.26999998px;line-height:1.25;font-family:sans-serif;letter-spacing:0;word-spacing:0;stroke-width:0.99000001"
+       transform="matrix(2.1964,0,0,2.50412,301.396,158.615)"
+       word-spacing="0"
+       x="14.69"
+       y="-10.05">00</text>
+  </g>
+  <path
+     d="M31-64.985L160-65"
+     fill="none"
+     id="path551"
+     marker-end="url(#a)"
+     stroke="#000"
+     stroke-width="1.81"
+     transform="translate(185.001 169.136)" />
+  <path
+     d="M241.213 61v34"
+     fill="none"
+     id="path553"
+     marker-end="url(#i)"
+     stroke="#000"
+     stroke-width="1.73"
+     transform="translate(185.001 169.136)" />
+  <text
+     font-size="17.68"
+     id="text555"
+     letter-spacing="0"
+     style="font-size:17.6800251px;line-height:0%;font-family:'DejaVu Sans';letter-spacing:0;word-spacing:0;stroke-width:1.47000206"
+     transform="scale(0.96543867,1.0357986)"
+     word-spacing="0"
+     x="393.93985"
+     y="187.78047">Decrypted</text>
+  <g
+     inkscape:label="decrypted-left"
+     id="decrypted-left">
+    <path
+       d="m 13.5,-16.5 h 8.99 v 8.99 H 13.5 Z"
+       id="path557"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:1.00999999;stroke-linecap:square"
+       transform="matrix(2.2023,0,0,2.49741,222.373,244.318)" />
+    <text
+       font-size="5.27"
+       font-weight="400"
+       id="text559"
+       letter-spacing="0"
+       style="font-weight:400;font-size:5.26999998px;line-height:1.25;font-family:sans-serif;letter-spacing:0;word-spacing:0;stroke-width:0.99000001"
+       transform="matrix(2.1964,0,0,2.50412,222.373,244.318)"
+       word-spacing="0"
+       x="14.69"
+       y="-10.05">00</text>
+    <path
+       d="m 13.5,-16.5 h 8.99 v 8.99 H 13.5 Z"
+       id="path561"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:1.00999999;stroke-linecap:square"
+       transform="matrix(2.2023,0,0,2.49741,244.385,244.33)" />
+    <text
+       font-size="5.27"
+       font-weight="400"
+       id="text563"
+       letter-spacing="0"
+       style="font-weight:400;font-size:5.26999998px;line-height:1.25;font-family:sans-serif;letter-spacing:0;word-spacing:0;stroke-width:0.99000001"
+       transform="matrix(2.1964,0,0,2.50412,244.385,244.33)"
+       word-spacing="0"
+       x="14.69"
+       y="-10.05">00</text>
+    <path
+       d="m 13.5,-16.5 h 8.99 v 8.99 H 13.5 Z"
+       id="path565"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:1.00999999;stroke-linecap:square"
+       transform="matrix(2.2023,0,0,2.49741,266.385,244.33)" />
+    <text
+       font-size="5.27"
+       font-weight="400"
+       id="text567"
+       letter-spacing="0"
+       style="font-weight:400;font-size:5.26999998px;line-height:1.25;font-family:sans-serif;letter-spacing:0;word-spacing:0;stroke-width:0.99000001"
+       transform="matrix(2.1964,0,0,2.50412,266.385,244.33)"
+       word-spacing="0"
+       x="14.69"
+       y="-10.05">00</text>
+    <path
+       d="m 13.5,-16.5 h 8.99 v 8.99 H 13.5 Z"
+       id="path569"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:1.00999999;stroke-linecap:square"
+       transform="matrix(2.2023,0,0,2.49741,288.385,244.33)" />
+    <text
+       font-size="5.27"
+       font-weight="400"
+       id="text571"
+       letter-spacing="0"
+       style="font-weight:400;font-size:5.26999998px;line-height:1.25;font-family:sans-serif;letter-spacing:0;word-spacing:0;stroke-width:0.99000001"
+       transform="matrix(2.1964,0,0,2.50412,288.385,244.33)"
+       word-spacing="0"
+       x="14.69"
+       y="-10.05">00</text>
+    <path
+       d="m 13.5,-16.5 h 8.99 v 8.99 H 13.5 Z"
+       id="path573"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:1.00999999;stroke-linecap:square"
+       transform="matrix(2.2023,0,0,2.49741,310.385,244.318)" />
+    <text
+       font-size="5.27"
+       font-weight="400"
+       id="text575"
+       letter-spacing="0"
+       style="font-weight:400;font-size:5.26999998px;line-height:1.25;font-family:sans-serif;letter-spacing:0;word-spacing:0;stroke-width:0.99000001"
+       transform="matrix(2.1964,0,0,2.50412,310.385,244.318)"
+       word-spacing="0"
+       x="14.69"
+       y="-10.05">00</text>
+    <path
+       d="m 13.5,-16.5 h 8.99 v 8.99 H 13.5 Z"
+       id="path577"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:1.00999999;stroke-linecap:square"
+       transform="matrix(2.2023,0,0,2.49741,332.396,244.33)" />
+    <text
+       font-size="5.27"
+       font-weight="400"
+       id="text579"
+       letter-spacing="0"
+       style="font-weight:400;font-size:5.26999998px;line-height:1.25;font-family:sans-serif;letter-spacing:0;word-spacing:0;stroke-width:0.99000001"
+       transform="matrix(2.1964,0,0,2.50412,332.396,244.33)"
+       word-spacing="0"
+       x="14.69"
+       y="-10.05">00</text>
+    <path
+       d="m 13.5,-16.5 h 8.99 v 8.99 H 13.5 Z"
+       id="path581"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:1.00999999;stroke-linecap:square"
+       transform="matrix(2.2023,0,0,2.49741,354.396,244.33)" />
+    <text
+       font-size="5.27"
+       font-weight="400"
+       id="text583"
+       letter-spacing="0"
+       style="font-weight:400;font-size:5.26999998px;line-height:1.25;font-family:sans-serif;letter-spacing:0;word-spacing:0;stroke-width:0.99000001"
+       transform="matrix(2.1964,0,0,2.50412,354.396,244.33)"
+       word-spacing="0"
+       x="14.69"
+       y="-10.05">00</text>
+    <path
+       d="m 13.5,-16.5 h 8.99 v 8.99 H 13.5 Z"
+       id="path585"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:1.00999999;stroke-linecap:square"
+       transform="matrix(2.2023,0,0,2.49741,376.396,244.33)" />
+    <text
+       font-size="5.27"
+       font-weight="400"
+       id="text587"
+       letter-spacing="0"
+       style="font-weight:400;font-size:5.26999998px;line-height:1.25;font-family:sans-serif;letter-spacing:0;word-spacing:0;stroke-width:0.99000001"
+       transform="matrix(2.1964,0,0,2.50412,376.396,244.33)"
+       word-spacing="0"
+       x="14.69"
+       y="-10.05">00</text>
+    <path
+       d="m 13.5,-16.5 h 8.99 v 8.99 H 13.5 Z"
+       id="path589"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:1.00999999;stroke-linecap:square"
+       transform="matrix(2.2023,0,0,2.49741,398.373,244.318)" />
+    <text
+       font-size="5.27"
+       font-weight="400"
+       id="text591"
+       letter-spacing="0"
+       style="font-weight:400;font-size:5.26999998px;line-height:1.25;font-family:sans-serif;letter-spacing:0;word-spacing:0;stroke-width:0.99000001"
+       transform="matrix(2.1964,0,0,2.50412,398.373,244.318)"
+       word-spacing="0"
+       x="14.69"
+       y="-10.05">00</text>
+    <path
+       d="m 13.5,-16.5 h 8.99 v 8.99 H 13.5 Z"
+       id="path593"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:1.00999999;stroke-linecap:square"
+       transform="matrix(2.2023,0,0,2.49741,420.385,244.33)" />
+    <text
+       font-size="5.27"
+       font-weight="400"
+       id="text595"
+       letter-spacing="0"
+       style="font-weight:400;font-size:5.26999998px;line-height:1.25;font-family:sans-serif;letter-spacing:0;word-spacing:0;stroke-width:0.99000001"
+       transform="matrix(2.1964,0,0,2.50412,420.385,244.33)"
+       word-spacing="0"
+       x="14.69"
+       y="-10.05">00</text>
+    <path
+       d="m 13.5,-16.5 h 8.99 v 8.99 H 13.5 Z"
+       id="path597"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:1.00999999;stroke-linecap:square"
+       transform="matrix(2.2023,0,0,2.49741,442.385,244.33)" />
+    <text
+       font-size="5.27"
+       font-weight="400"
+       id="text599"
+       letter-spacing="0"
+       style="font-weight:400;font-size:5.26999998px;line-height:1.25;font-family:sans-serif;letter-spacing:0;word-spacing:0;stroke-width:0.99000001"
+       transform="matrix(2.1964,0,0,2.50412,442.385,244.33)"
+       word-spacing="0"
+       x="14.69"
+       y="-10.05">00</text>
+    <path
+       d="m 13.5,-16.5 h 8.99 v 8.99 H 13.5 Z"
+       id="path601"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:1.00999999;stroke-linecap:square"
+       transform="matrix(2.2023,0,0,2.49741,464.385,244.33)" />
+    <text
+       font-size="5.27"
+       font-weight="400"
+       id="text603"
+       letter-spacing="0"
+       style="font-weight:400;font-size:5.26999998px;line-height:1.25;font-family:sans-serif;letter-spacing:0;word-spacing:0;stroke-width:0.99000001"
+       transform="matrix(2.1964,0,0,2.50412,464.385,244.33)"
+       word-spacing="0"
+       x="14.69"
+       y="-10.05">00</text>
+    <path
+       d="m 13.5,-16.5 h 8.99 v 8.99 H 13.5 Z"
+       id="path605"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:1.00999999;stroke-linecap:square"
+       transform="matrix(2.2023,0,0,2.49741,486.385,244.318)" />
+    <text
+       font-size="5.27"
+       font-weight="400"
+       id="text607"
+       letter-spacing="0"
+       style="font-weight:400;font-size:5.26999998px;line-height:1.25;font-family:sans-serif;letter-spacing:0;word-spacing:0;stroke-width:0.99000001"
+       transform="matrix(2.1964,0,0,2.50412,486.385,244.318)"
+       word-spacing="0"
+       x="14.69"
+       y="-10.05">00</text>
+    <path
+       d="m 13.5,-16.5 h 8.99 v 8.99 H 13.5 Z"
+       id="path609"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:1.00999999;stroke-linecap:square"
+       transform="matrix(2.2023,0,0,2.49741,508.396,244.33)" />
+    <text
+       font-size="5.27"
+       font-weight="400"
+       id="text611"
+       letter-spacing="0"
+       style="font-weight:400;font-size:5.26999998px;line-height:1.25;font-family:sans-serif;letter-spacing:0;word-spacing:0;stroke-width:0.99000001"
+       transform="matrix(2.1964,0,0,2.50412,508.396,244.33)"
+       word-spacing="0"
+       x="14.69"
+       y="-10.05">00</text>
+    <path
+       d="m 13.5,-16.5 h 8.99 v 8.99 H 13.5 Z"
+       id="path613"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:1.00999999;stroke-linecap:square"
+       transform="matrix(2.2023,0,0,2.49741,530.396,244.33)" />
+    <text
+       font-size="5.27"
+       font-weight="400"
+       id="text615"
+       letter-spacing="0"
+       style="font-weight:400;font-size:5.26999998px;line-height:1.25;font-family:sans-serif;letter-spacing:0;word-spacing:0;stroke-width:0.99000001"
+       transform="matrix(2.1964,0,0,2.50412,530.396,244.33)"
+       word-spacing="0"
+       x="14.69"
+       y="-10.05">00</text>
+    <path
+       d="m 13.5,-16.5 h 8.99 v 8.99 H 13.5 Z"
+       id="path617"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:1.00999999;stroke-linecap:square"
+       transform="matrix(2.2023,0,0,2.49741,552.396,244.33)" />
+    <text
+       font-size="5.27"
+       font-weight="400"
+       id="text619"
+       letter-spacing="0"
+       style="font-weight:400;font-size:5.26999998px;line-height:1.25;font-family:sans-serif;letter-spacing:0;word-spacing:0;stroke-width:0.99000001"
+       transform="matrix(2.1964,0,0,2.50412,552.396,244.33)"
+       word-spacing="0"
+       x="14.69"
+       y="-10.05">00</text>
+  </g>
+</svg>
